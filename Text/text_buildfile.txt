@@ -1,0 +1,248 @@
+
+# 0x0002 textWeaponRankIncreasedTo
+ Weapon rank increased to [X]
+
+# 0x0094
+HP Bars[.][X]
+
+# 0x00B2
+Set health bar display[X]
+
+# 0x160 PrologueChName
+Embrace the Dark[X]
+
+#0x3A LearnedSkillText
+#first text ID in the free block
+Learned  [X]
+
+#include "statscreen_text.txt"
+
+#include "unitmenu_text.txt"
+
+#0xd4c LikesText
+#first text ID in the free block
+Likes:[X]
+
+#0xd4d DislikesText
+[0x9E]i[0x90]li[0x8A][0x85][0x90]:[X]
+
+#0xd4e HeightText
+Height:[X]
+
+#0xd4f AgeText
+Age:[X]
+
+## HouseText
+#first text ID in the free block
+[MidRight][LoadFace][CurrentPortrait]Nothing to see here.[A][X]
+
+## VillageText
+[MidRight][LoadFace][0xFF][0xFF]These look useful.[A][X]
+
+## DV1Desc
+Freeze all enemies[N]
+for one turn[X]
+
+## nameCamus
+#for identity problems
+Camus[X]
+
+## nameSirius
+Sirius[X]
+
+## nameZeke
+Zeke[X]
+
+## StairsNameText
+ Stairs[X]
+
+## StairsDescText
+Take this staircase to[N]
+the connecting end.[X]
+
+## StairsBlockedText
+The staircase is blocked[N]
+from the other side.[X]
+
+## RaidNameText
+ Raid[X]
+
+## RaidDescText
+Destroy this village[N]
+for items and gold.[X]
+
+## EscapeName
+ Escape[X]
+
+## EscapeDesc
+Have this unit[N]
+leave this chapter.[X]
+
+## ArriveName
+ Arrive[X]
+
+## ArriveDesc
+Complete this chapter[N]
+by having this unit arrive.[X]
+
+## LordMustEscapeLastText
+This unit must escape last.[X]
+
+## Mov_Text_ID
+Mov[X]
+
+## PrepScreenUseSkillScroll
+ Skill learned[X]
+
+## SkillScrollDesc
+A scroll that teaches[N]
+a skill when used.[X]
+
+#include "skilldesc_text.txt"
+
+#include "unitinfo_text.txt"
+
+# 0x0212
+Corrin[X]
+
+##
+Jakob[X]
+
+##
+Elise[X]
+
+##
+Silas[X]
+
+##
+Effie[X]
+
+##
+Arthur[X]
+
+##
+Odin[X]
+
+##
+Niles[X]
+
+##
+Flora[X]
+
+##
+Mozu[X]
+
+##
+Azura[X]
+
+##
+Nyx[X]
+
+##
+Camilla[X]
+
+##
+Felicia[X]
+
+##
+Selena[X]
+
+##
+Beruka[X]
+
+##
+Kaze[X]
+
+##
+Laslow[X]
+
+##
+Peri[X]
+
+##
+Sorell[X]
+
+##
+Charlotte[X]
+
+##
+Benny[X]
+
+##
+Leo[X]
+
+##
+Keaton[X]
+
+##
+Gunter[X]
+
+##
+Anna[X]
+
+# 0x022D
+Xander[X]
+
+##
+Jacynth[X]
+
+##
+Shura[X]
+
+##
+Hazel[X]
+
+##
+Izana[X]
+
+##
+Kaito[X]
+
+##
+Lilith[X]
+
+# 0x035C
+Yato[X]
+
+# 0x026E
+A princess from Nohr with mysterious[NL]
+origins. Somwhat naive.[.][X]
+
+##
+An immaculate butler who serves as[NL]
+one of Corrin's retainers.[.][X]
+
+##
+The youngest princess of Nohr. She[NL]
+loves her siblings unconditionally.[X]
+
+##
+Corrin's childhood friend. He joined[NL]
+the army in hopes of meeting them again.[X]
+
+##
+Elise's retainer. Always either training[NL]
+or eating.[X]
+
+##
+Elise's retainer. He has extraordinarily[NL]
+bad luck, and loves to fight for justice.[X]
+
+# 0x040C
+Corrin only. A legendary blade.[X]
+
+# 0x02D4
+Butler[X]
+
+# 0x050B
+Dagger[X]
+
+# 0x0566
+Dagger mastery level.[X]
+
+# 0x0320
+Servants who fight with both to protect[NL]
+their liege. Equip: Daggers, staves.[X]
+
+# 0x03B0
+Iron Dagger[X]

@@ -1,0 +1,7 @@
+#include "Event Assembler/Tools/Tool Helpers.txt"
+//this file defines the macro:
+//setMugEntry(number, data, mouth_x, mouth_y, eye_x, eye_y)
+
+Corrin_Mug:
+#incext PortraitFormatter "Graphics/Corrin.png"
+setMugEntry(0x2, Corrin_Mug, 3, 7, 3, 5)
