@@ -5,3 +5,76 @@
 Corrin_Mug:
 #incext PortraitFormatter "Graphics/Corrin.png"
 setMugEntry(0x2, Corrin_Mug, 3, 7, 3, 5)
+
+
+Elise_Mug:
+#incext PortraitFormatter "Graphics/Elise.png"
+setMugEntry(0x5, Elise_Mug, 2, 6, 3, 3)
+
+Effie_Mug:
+#incext PortraitFormatter "Graphics/EffieStandin.png"
+setMugEntry(0x7, Effie_Mug, 2, 6, 3, 4)
+
+Arthur_Mug:
+#incext PortraitFormatter "Graphics/Arthur.png"
+setMugEntry(0x8, Arthur_Mug, 3, 5, 3, 3)
+
+Odin_Mug:
+#incext PortraitFormatter "Graphics/Odin.png"
+setMugEntry(0x9, Odin_Mug, 4, 6, 2, 4)
+
+Mozu_Mug:
+#incext PortraitFormatter "Graphics/Mozu.png"
+setMugEntry(0xE, Mozu_Mug, 2, 4, 2, 3)
+
+Azura_Mug:
+#incext PortraitFormatter "Graphics/Azura.png"
+setMugEntry(0x0F, Azura_Mug, 2, 5, 2, 3)
+
+Nyx_Mug:
+#incext PortraitFormatter "Graphics/Nyx.png"
+setMugEntry(0x10, Nyx_Mug, 3, 5, 3, 3)
+
+Camilla_Mug:
+#incext PortraitFormatter "Graphics/CamillaStandin.png"
+setMugEntry(0x11, Camilla_Mug, 2, 5, 2, 3)
+
+Laslow_Mug:
+#incext PortraitFormatter "Graphics/Laslow.png"
+setMugEntry(0x19, Laslow_Mug, 2, 5, 2, 3)
+
+Peri_Mug:
+#incext PortraitFormatter "Graphics/Peri.png"
+setMugEntry(0x1A, Peri_Mug, 3, 5, 3, 4)
+
+Sorell_Mug:
+#incext PortraitFormatter "Graphics/Sorell.png"
+setMugEntry(0x1B, Sorell_Mug, 4, 5, 3, 3)
+
+Charlotte_Mug:
+#incext PortraitFormatter "Graphics/Charlotte.png"
+setMugEntry(0x1C, Charlotte_Mug, 3, 6, 3, 4)
+
+Gunter_Mug:
+#incext PortraitFormatter "Graphics/GunterStandin.png"
+setMugEntry(0x22, Gunter_Mug, 3, 5, 3, 3)
+
+Anna_Mug:
+#incext PortraitFormatter "Graphics/Anna.png"
+setMugEntry(0x23, Anna_Mug, 2, 6, 3, 4)
+
+Jacynth_Mug:
+#incext PortraitFormatter "Graphics/Jacynth.png"
+setMugEntry(0x25, Jacynth_Mug, 4, 6, 4, 4)
+
+Hazel_Mug:
+#incext PortraitFormatter "Graphics/Hazel.png"
+setMugEntry(0x29, Hazel_Mug, 3, 6, 3, 4)
+
+Kaito_Mug:
+#incext PortraitFormatter "Graphics/Kaito.png"
+setMugEntry(0x2B, Kaito_Mug, 3, 5, 3, 3)
+
+Lilith_Mug:
+#incext PortraitFormatter "Graphics/Lilith.png"
+setMugEntry(0x2C, Lilith_Mug, 2, 8, 2, 6)

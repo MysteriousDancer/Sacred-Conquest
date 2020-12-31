@@ -33,7 +33,7 @@ Tutorial:
 End_MAIN
 
 PlayerUnits:
-UNIT Eirika EirikaLord Eirika Level(1,Ally,False) [1,5] 0x0 0x0 0x0 0x1 [Rapier,Vulnerary] NoAI
+UNIT Eirika EirikaLord Eirika Level(10,Ally,False) [1,5] 0x0 0x0 0x0 0x1 [Rapier,Vulnerary,LunarBrace] NoAI
 UNIT Seth Bishop Eirika Level(1,Ally,False) [1,4] 0x0 0x0 0x0 0x1 [Lightning,Heal] NoAI
 UNIT
 

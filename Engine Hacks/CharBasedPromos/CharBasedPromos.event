@@ -21,7 +21,9 @@ MESSAGE CharBasedPromos
 
 ALIGN 4
 CharBasedPromoList:
-CharBasedPromoEntry(Eirika,EirikaLord,EirikaLord)
+CharBasedPromoEntry(Eirika,EirikaLord,EirikaMasterLord)
+CharBasedPromoEntry(Eirika,EirikaLord,Cavalier)
+CharBasedPromoEntry(Eirika,EirikaLord,WyvernRider)
 CharBasedPromoEntry(Ephraim,EphraimLord,EphraimMasterLord)
 CharBasedPromoEntry(Kyle,Cavalier,General)
 CharBasedPromoEntry(Forde,Cavalier,FalcoKnight)
