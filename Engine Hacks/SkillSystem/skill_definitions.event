@@ -942,7 +942,7 @@
 //Author Unknown (Initial Commit)
 #define ExpertiseID 255
 
-//Celerity: Movement +2.
+//Mov +1: Movement +1.
 //Author Unknown (Initial Commit)
 #define CelerityID 97
 

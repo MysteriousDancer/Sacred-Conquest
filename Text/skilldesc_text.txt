@@ -396,7 +396,7 @@ Expertise: Reduce bonus damage[N]
 from critical hits by 50%.[X]
 
 ## SD_Celerity
-Celerity: Movement +2.[X]
+Mov +1: Grants Movement +1.[X]
 
 ## SD_FieryBlood
 Fiery Blood: +4 damage[N]
