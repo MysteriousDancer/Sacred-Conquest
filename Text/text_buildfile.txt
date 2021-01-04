@@ -246,3 +246,33 @@ their liege. Equip: Daggers, staves.[X]
 
 # 0x03B0
 Iron Dagger[X]
+
+# 0x090D
+[OpenLeft][LoadFace][0x02][0x01][OpenMidRight][LoadFace][0x48][0x01][OpenFarLeft][LoadFace][0x24][0x01]
+[OpenLeft]Ryoma! Withdraw your troops![A]
+[OpenMidRight]What?[NL]
+You can't possibly mean that, Corrin![A]
+[OpenLeft]Ryoma, I'm sorry. But I can't abandon the[NL] 
+family who've cared for me all these years.[A]
+[OpenMidRight]Can't you see everything they've done?[A]
+[OpenLeft]Ryoma...[A]
+[OpenMidRight]These Nohrians have ravaged our kingdom and[NL]
+torn apart our family.[A]
+[OpenLeft]My sorrow is beyond words. But my heart[NL]
+is telling me this is what I must do.[A]
+[OpenMidRight][CloseEyes]
+[OpenFarLeft]You've done the right thing, Corrin. Even[NL]
+though we are not related by blood,[ANL]
+you are still part of this family.[A][X]
+
+# 0x0246
+Ryoma[X]
+
+# 0x0238
+Sakura[X]
+
+# 0x0237
+Takumi[X]
+
+# 0x0244
+Hinoka[X]

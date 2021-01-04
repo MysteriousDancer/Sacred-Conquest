@@ -33,7 +33,7 @@ Tutorial:
 End_MAIN
 
 PlayerUnits:
-UNIT Eirika EirikaLord Eirika Level(10,Ally,False) [1,5] 0x0 0x0 0x0 0x1 [Rapier,Vulnerary,LunarBrace] NoAI
+UNIT Eirika EirikaLord Eirika Level(1,Ally,False) [1,5] 0x0 0x0 0x0 0x1 [Rapier,Vulnerary,] NoAI
 UNIT Seth Bishop Eirika Level(1,Ally,False) [1,4] 0x0 0x0 0x0 0x1 [Lightning,Heal] NoAI
 UNIT
 
@@ -44,8 +44,14 @@ TrapDataHard:
 End_Main
 
 BeginningScene:
+SetBackground(0x1A)
+Text(0x090D)
+CALL $9EE2C4
+ENUN
+
 LOAD1 1 PlayerUnits
 ENUN
+
 ENDA
 
 EndingScene:

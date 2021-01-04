@@ -14,3 +14,5 @@ Peri: tavenger
 elise: hugin
 sorell: mrgreen3339
 charlotte: nobody
+takumi: thetealganon
+sakura: batimathebat

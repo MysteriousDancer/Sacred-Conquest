@@ -78,3 +78,11 @@ setMugEntry(0x2B, Kaito_Mug, 3, 5, 3, 3)
 Lilith_Mug:
 #incext PortraitFormatter "Graphics/Lilith.png"
 setMugEntry(0x2C, Lilith_Mug, 2, 8, 2, 6)
+
+Sakura_Mug:
+#incext PortraitFormatter "Graphics/Sakura.png"
+setMugEntry(0x3F, Sakura_Mug, 2, 6, 2, 4)
+
+Takumi_Mug:
+#incext PortraitFormatter "Graphics/Takumi.png"
+setMugEntry(0x42, Takumi_Mug, 3, 6, 1, 4)
