@@ -270,3 +270,20 @@ ST_Skill6:
 	
 #endif // ENABLE_PERSONAL_INFO
 
+PUSH // R menu
+ORG 0xA00EB8
+ST_Name3:
+  RMenu(0,ST_Class3,0,0,0x18,0x50,0x0,NameDescGetter)
+ST_Class3:
+  RMenu(ST_Name3,ST_Level3,0,0,0x6,0x68,0x6E8,ClassDescGetter)
+ST_Level3:
+  RMenu(ST_Class3,ST_HP3,0,ST_Exp3,0x6,0x78,0x542)
+ST_Exp3:
+  RMenu(ST_Class3,ST_HP3,ST_Level3,0,0x26,0x78,0x543)
+ST_HP3:
+  RMenu(ST_Level3,0,0,0,0x6,0x88,0x544)
+POP
+PUSH
+ORG $889F8
+POIN ST_Name3
+POP

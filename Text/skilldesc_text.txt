@@ -398,6 +398,9 @@ from critical hits by 50%.[X]
 ## SD_Celerity
 Mov +1: Grants Movement +1.[X]
 
+## SD_ResPlus2
+Res +2: Grants Resistance +2.[X]
+
 ## SD_FieryBlood
 Fiery Blood: +4 damage[N]
 when HP is not at max.[X]

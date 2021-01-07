@@ -905,5 +905,8 @@ ORG SkillIcon(ArmorboostID)
 ORG SkillIcon(TriangleAttackID)
 #incbin "SkillIcons/TriangleAttack.dmp"
 
+ORG SkillIcon(ResPlus2ID)
+#incbin "SkillIcons/ResPlus2.dmp"
+
 ORG SkillIcons+0x8000
 

@@ -276,3 +276,12 @@ Takumi[X]
 
 # 0x0244
 Hinoka[X]
+
+# 0x02DB
+Mechanist[.][X]
+
+# 0x024A
+Yukimura[X]
+
+# 0x02E7
+Sky Knight[.][X]

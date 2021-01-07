@@ -1037,9 +1037,12 @@
 #define NiceThighsID 255
 #define PersonalityID 255
 
+//Mine
+
+#define ResPlus2ID 23
 
 //Broken Skills
 #define Roll12ID 255
 #define TraceID 255
 
-//left off at 100, 23
+//left off at 100
