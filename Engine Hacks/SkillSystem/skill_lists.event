@@ -22,11 +22,12 @@ BYTE 00 00
 ALIGN 4
 
 CavalierSkillList:
-BYTE 1 ElbowRoomID
-BYTE 10 OutdoorFighterID
+BYTE 10 ElbowRoomID
 BYTE 00 00
 
 PaladinSkillList:
+BYTE 255 ElbowRoomID
+BYTE 15 AegisID
 BYTE 00 00
 ALIGN 4
 
@@ -79,6 +80,8 @@ BYTE 00 00
 ALIGN 4
 
 WyvernRiderSkillList:
+BYTE 1 StrPlus2ID
+BYTE 10 LungeID
 BYTE 00 00
 ALIGN 4
 
@@ -87,7 +90,10 @@ BYTE 00 00
 ALIGN 4
 
 WyvernKnightSkillList:
-BYTE 1 LunaID
+BYTE 255 StrPlus2ID
+BYTE 255 LungeID
+BYTE 5 SavageBlowID
+BYTE 15 TrampleID
 BYTE 00 00
 ALIGN 4
 
@@ -112,6 +118,7 @@ BYTE 00 00
 ALIGN 4
 
 ShamanSkillList:
+BYTE 10 MaleficAuraID
 BYTE 00 00
 ALIGN 4
 
@@ -120,6 +127,9 @@ BYTE 00 00
 ALIGN 4
 
 SummonerSkillList:
+BYTE 255 MaleficAuraID
+BYTE 5 SealMagID
+BYTE 15 LifetakerID
 BYTE 00 00
 ALIGN 4
 
@@ -178,6 +188,7 @@ BYTE 00 00
 ALIGN 4
 
 TroubadourSkillList:
+BYTE 1 ResPlus2ID
 BYTE 10 DemoiselleID
 BYTE 00 00
 ALIGN 4
@@ -265,15 +276,11 @@ BYTE 00 00
 ALIGN 4
 
 CavalierSkillList:
-BYTE 1 DisciplineID
-	BYTE 5 TriAdeptID
 BYTE 10 ElbowRoomID
 BYTE 00 00
 
 PaladinSkillList:
-BYTE 255 DisciplineID //learned if spawning
 BYTE 255 ElbowRoomID
-BYTE 5 RallySklID
 BYTE 15 AegisID
 BYTE 00 00
 ALIGN 4
@@ -358,12 +365,14 @@ BYTE 00 00
 ALIGN 4
 
 WyvernRiderSkillList:
-BYTE 10 TantivyID
+BYTE 1 StrPlus2ID
+BYTE 10 LungeID
 BYTE 00 00
 ALIGN 4
 
 WyvernLordSkillList:
-BYTE 255 TantivyID
+BYTE 255 StrPlus2ID
+BYTE 255 LungeID
 BYTE 5 SavageBlowID
 BYTE 15 SwordbreakerID
 BYTE 00 00
@@ -371,8 +380,8 @@ ALIGN 4
 
 WyvernKnightSkillList:
 BYTE 255 TantivyID
-BYTE 5 RallyMovID
-BYTE 15 LancefaireID
+BYTE 5 SavageBlowID
+BYTE 15 TrampleID
 BYTE 00 00
 ALIGN 4
 

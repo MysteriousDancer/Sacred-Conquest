@@ -908,5 +908,26 @@ ORG SkillIcon(TriangleAttackID)
 ORG SkillIcon(ResPlus2ID)
 #incbin "SkillIcons/ResPlus2.dmp"
 
+ORG SkillIcon(HPPlus5ID)
+#incbin "SkillIcons/HPPlus5.dmp"
+
+ORG SkillIcon(StrPlus2ID)
+#incbin "SkillIcons/StrPlus2.dmp"
+
+ORG SkillIcon(MagPlus2ID)
+#incbin "SkillIcons/MagPlus2.dmp"
+
+ORG SkillIcon(SpdPlus2ID)
+#incbin "SkillIcons/SpdPlus2.dmp"
+
+ORG SkillIcon(SklPlus2ID)
+#incbin "SkillIcons/SklPlus2.dmp"
+
+ORG SkillIcon(DefPlus2ID)
+#incbin "SkillIcons/DefPlus2.dmp"
+
+ORG SkillIcon(LckPlus4ID)
+#incbin "SkillIcons/LckPlus4.dmp"
+
 ORG SkillIcons+0x8000
 

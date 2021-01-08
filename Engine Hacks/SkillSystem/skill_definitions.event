@@ -1038,11 +1038,17 @@
 #define PersonalityID 255
 
 //Mine
-
 #define ResPlus2ID 23
+#define HPPlus5ID 107
+#define StrPlus2ID 101
+#define MagPlus2ID 102
+#define LckPlus4ID 103
+#define DefPlus2ID 104
+#define SpdPlus2ID 105
+#define SklPlus2ID 106
 
 //Broken Skills
 #define Roll12ID 255
 #define TraceID 255
 
-//left off at 100
+//next 108

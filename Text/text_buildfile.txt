@@ -285,3 +285,18 @@ Yukimura[X]
 
 # 0x02E7
 Sky Knight[.][X]
+
+# 0x02E1
+Dark Mage[X]
+
+##
+Sorcerer[X]
+
+##
+Dark Knight[X]
+
+# 0x02D0
+Malig Knight[X]
+
+# 0x02EB
+Strategist[X]

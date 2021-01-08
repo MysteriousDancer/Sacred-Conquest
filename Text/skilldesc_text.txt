@@ -401,6 +401,27 @@ Mov +1: Grants Movement +1.[X]
 ## SD_ResPlus2
 Res +2: Grants Resistance +2.[X]
 
+## SD_DefPlus2
+Def+2: Grants Defense +2.[X]
+
+## SD_LckPlus4
+Luck +4: Grants Luck +4.[X]
+
+## SD_HPPlus5
+HP+5: Grants max HP +5.[X]
+
+## SD_StrPlus2
+Str+2: Grants Strength +2.[X]
+
+## SD_MagPlus2
+Mag+2: Grants Magic +2.[X]
+
+## SD_SklPlus2
+Skill +2: Grants Skill +2.[X]
+
+## SD_SpdPlus2
+Speed +2: Grants Speed +2.[X]
+
 ## SD_FieryBlood
 Fiery Blood: +4 damage[N]
 when HP is not at max.[X]
