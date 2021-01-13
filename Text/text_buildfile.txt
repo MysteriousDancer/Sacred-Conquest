@@ -303,3 +303,12 @@ Strategist[X]
 
 # 0x0448
 Corrin only. Cannot double.[X]
+
+# 0x03C0
+Fujin Yumi[.][X]
+
+# 0x03C1
+Rajinto[X]
+
+# 0x0470
+Ryoma's sword. Infused with electricity.[.][X]
