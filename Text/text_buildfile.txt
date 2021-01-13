@@ -300,3 +300,6 @@ Malig Knight[X]
 
 # 0x02EB
 Strategist[X]
+
+# 0x0448
+Corrin only. Cannot double.[X]
