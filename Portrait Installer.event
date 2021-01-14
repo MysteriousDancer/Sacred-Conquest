@@ -90,3 +90,7 @@ setMugEntry(0x42, Takumi_Mug, 3, 6, 1, 4)
 Beruka_Mug:
 #incext PortraitFormatter "Graphics/Beruka.png"
 setMugEntry(0x16, Beruka_Mug, 3, 5, 3, 3)
+
+Hinoka_Mug:
+#incext PortraitFormatter "Graphics/Hinoka.png"
+setMugEntry(0x43, Hinoka_Mug, 2, 6, 3, 4)

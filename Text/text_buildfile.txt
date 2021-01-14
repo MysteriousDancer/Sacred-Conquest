@@ -312,3 +312,57 @@ Rajinto[X]
 
 # 0x0470
 Ryoma's sword. Infused with electricity.[.][X]
+
+# 0x0354
+Bronze Sword[X]
+
+# 0x0356
+Iron Sword[.][X]
+
+# 0x0357
+Silver Sword[X]
+
+# 0x0355
+Steel Sword[X]
+
+# 0x0369
+Bronze Lance[X]
+
+# 0x036A
+Steel Lance[X]
+
+# 0x036B
+Iron Lance[.][X]
+
+# 0x036C
+Silver Lance[X]
+
+# 0x037A
+Bronze Axe[X]
+
+# 0x037B
+Iron Axe[.][X]
+
+# 0x037C
+Silver Axe[X]
+
+# 0x038B
+Bronze Bow[X]
+
+# 0x038C
+Iron Bow[.][X]
+
+# 0x038D
+Silver Bow[X]
+
+# 0x0374
+Brynhildr[.][X]
+
+# 0x0375
+Siegfried[X]
+
+# 0x0424
+Leo only. A sacred tome of Nohr.[X]
+
+# 0x0425
+Xander only. A sacred sword of Nohr.[.][X]

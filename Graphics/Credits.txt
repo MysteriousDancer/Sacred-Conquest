@@ -17,3 +17,4 @@ charlotte: nobody
 takumi: thetealganon
 sakura: batimathebat
 beruka: zoramine
+hinoka: sme
