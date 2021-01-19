@@ -35,7 +35,7 @@ End_MAIN
 PlayerUnits:
 UNIT Eirika EirikaLord Eirika Level(1,Ally,False) [5,14] 0x0 0x0 0x0 0x1 [Rapier,Dragonstone,Vulnerary,] NoAI
 UNIT Seth Bishop Eirika Level(1,Ally,False) [4,15] 0x0 0x0 0x0 0x1 [Lightning,Heal] NoAI
-UNIT Natasha WyvernKnight Eirika Level(1,Ally,False) [2,7] 0x0 0x0 0x0 0x1 [SteelAxe,Fire] NoAI
+UNIT Natasha 0x24 Eirika Level(1,Ally,False) [2,7] 0x0 0x0 0x0 0x1 [SteelAxe,Fire] NoAI
 UNIT Gilliam Troubadour Eirika Level(1,Ally,False) [4,9] 0x0 0x0 0x0 0x1 [Heal] NoAI
 UNIT Saleh Summoner Eirika Level(1,Ally,False) [2,13] 0x0 0x0 0x0 0x1 [Reginleif,IronSword] NoAI
 UNIT Rennac Paladin Eirika Level(1,Ally,False) [6,1] 0x0 0x0 0x0 0x1 [Siegmund,IronLance] NoAI
