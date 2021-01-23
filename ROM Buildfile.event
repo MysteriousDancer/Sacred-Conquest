@@ -30,6 +30,13 @@
     #include "Portrait Installer.event"
     #include "Animations/AnimationInstaller.event"
 
+ALIGN 4
+//disable opening world map
+ORG $A39768
+EVBIT_MODIFY 0x1
+SKIPWN
+ENDA 
+
     MESSAGE Used free space ends at currentOffset
 #else
     ERROR You are not assembling FE8 events!
