@@ -1,4 +1,4 @@
-Corrin: SomeDenseGuy
+Corrin (Old): SomeDenseGuy
 Arthur: SatoshiKura
 Azura: BatimaTheBat
 Hazel: Xenith
@@ -16,5 +16,7 @@ sorell: mrgreen3339
 charlotte: nobody
 takumi: thetealganon
 sakura: batimathebat
-beruka: zoramine
 hinoka: sme
+
+Beruka: Zoramine Fae
+Corrin: Autonima

@@ -19,7 +19,6 @@ CharacterBasedEvents:
 END_MAIN
 
 LocationBasedEvents:
-END_MAIN
 
 MiscBasedEvents:
 DefeatBoss(EndingScene)
@@ -34,7 +33,6 @@ End_MAIN
 
 PlayerUnits:
 UNIT Eirika EirikaLord Eirika Level(1,Ally,False) [5,14] 0x0 0x0 0x0 0x1 [Rapier,Dragonstone,Vulnerary,] NoAI
-UNIT Seth Bishop Eirika Level(1,Ally,False) [4,15] 0x0 0x0 0x0 0x1 [Lightning,Heal] NoAI
 UNIT Natasha 0x24 Eirika Level(1,Ally,False) [2,7] 0x0 0x0 0x0 0x1 [SteelAxe,Fire] NoAI
 UNIT Gilliam Troubadour Eirika Level(1,Ally,False) [4,9] 0x0 0x0 0x0 0x1 [Heal] NoAI
 UNIT Saleh Summoner Eirika Level(1,Ally,False) [2,13] 0x0 0x0 0x0 0x1 [Reginleif,IronSword] NoAI
@@ -44,6 +42,10 @@ UNIT 0x26 Cleric 0x28 Level(1,Enemy,False) [17,12] 0x0 0x0 0x0 0x1 [Heal] [0xE, 
 UNIT 0x27 Archer 0x28 Level(1,Enemy,False) [13,19] 0x0 0x0 0x0 0x1 [DemonSurge] [0x0, 0x0, 0x0, 0x0]
 UNIT 0x29 PegasusKnight 0x28 Level(1,Enemy,False) [12,18] 0x0 0x0 0x0 0x1 [SteelLance] [0x0, 0x0, 0x0, 0x0]
 UNIT 0x28 Swordmaster 0x28 Level(1,Enemy,False) [12,7] 0x0 0x0 0x0 0x1 [Shadowshot] [0x0, 0x0, 0x0, 0x0]
+UNIT
+
+Jakob: 
+UNIT Seth Bishop Eirika Level(1,Ally,False) [4,15] 0x0 0x0 0x0 0x1 [Lightning,Heal] NoAI
 UNIT
 
 TrapData:
@@ -58,7 +60,21 @@ Text(0x090D)
 CALL $9EE2C4
 ENUN
 
+SetBackground(0x1A)
+Text(0x090E)
+CALL $9EE2C4
+ENUN
+
 LOAD1 1 PlayerUnits
+ENUN
+
+Text(0x090F)
+ENUN
+
+LOAD1 1 Jakob
+ENUN
+
+Text(0x0910)
 ENUN
 
 ENDA

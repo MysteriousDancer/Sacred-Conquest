@@ -4,7 +4,7 @@
 
 Corrin_Mug:
 #incext PortraitFormatter "Graphics/Corrin.png"
-setMugEntry(0x2, Corrin_Mug, 3, 7, 3, 5)
+setMugEntry(0x2, Corrin_Mug, 3, 5, 3, 3)
 
 
 Elise_Mug:
