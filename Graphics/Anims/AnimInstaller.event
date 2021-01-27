@@ -1,0 +1,12 @@
+BishopSt:
+#incext Png2Dmp ButlerStanding.png--lz77
+#define Small 0x00
+
+BishopMv:
+#incext Png2Dmp ButlerMoving.png--lz77
+
+
+//#define Large 0x02 Use for 32x32 frames
+//#define Medium 0x01 Use for 32x16 frames
+//#define Small 0x00 Use for 16x16 frames
+
