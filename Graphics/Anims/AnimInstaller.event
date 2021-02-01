@@ -1,9 +1,8 @@
-BishopSt:
-#incext Png2Dmp ButlerStanding.png--lz77
-#define Small 0x00
+ButlerSt:
+#incext Png2Dmp "ButlerStandingTest.png"--lz77
 
-BishopMv:
-#incext Png2Dmp ButlerMoving.png--lz77
+ButlerMv:
+#incext Png2Dmp "ButlerMoving.png"--lz77
 
 
 //#define Large 0x02 Use for 32x32 frames

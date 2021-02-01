@@ -29,7 +29,7 @@
     //Graphics
     #include "Portrait Installer.event"
     #include "Animations/AnimationInstaller.event"
-    //#include "Graphics/Anims/AnimInstaller.event"
+    #include "Graphics/Anims/AnimInstaller.event"
 
 ALIGN 4
 //disable opening world map

@@ -17,6 +17,7 @@ charlotte: nobody
 takumi: thetealganon
 sakura: batimathebat
 hinoka: sme
+Anna: Melia
 
 Beruka: Zoramine Fae
 Corrin: Autonima

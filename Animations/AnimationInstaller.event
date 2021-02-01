@@ -11,51 +11,10 @@
 
 //////////////Installed animations go here:
 
-//Dark Knight
-{
-#include "[T2][MAG][Dark Knight](3DS-Style)[U]{Pikmin1211, Jj09, DerTheVaporeon}/1. Sword (jj09, DerTheVaporeon)/Sword Installer.event"
-}
-{
-#include "[T2][MAG][Dark Knight](3DS-Style)[U]{Pikmin1211, Jj09, DerTheVaporeon}/6. Magic (jj09, DerTheVaporeon)/Magic Installer.event"
-}
-//Fencer
-{
-#include "[T1][SWD][Custom Sword](Fencer)[F]{GabrielKnight}/1. Sword/Sword Installer.event"
-}
-{
-#include "[T1][SWD][Custom Sword](Fencer)[F]{GabrielKnight}/8. Unarmed/Unarmed Installer.event"
-}
-
-//Manakete
-{
-//#include "[T1][MON][Manakete](FE8 Myrrh Repalette)[F]{Teraspark}/8. Dragonstone/Dragonstone Installer.event"
-}
-
-//Malig Knight
-{
-//#include "[T2][FLY][Custom Flier](Malig Knight)[M]{Pikmin1211, Jj09, 7743, Jey the Count}/3. Axe/Axe Installer.event"
-}
-{
-//#include "[T2][FLY][Custom Flier](Malig Knight)[M]{Pikmin1211, Jj09, 7743, Jey the Count}/4. Handaxe/Handaxe Installer.event"
-}
-{
-//#include "[T2][FLY][Custom Flier](Malig Knight)[M]{Pikmin1211, Jj09, 7743, Jey the Count}/6. Magic/Magic Installer.event"
-}
-
-//Wyvern Rider
-{
-//#include "[T1][FLY][Wyvern Rider](Helmetless)]F]{Flasuban, eCut}/3. Axe/Axe Installer.event"
-}
-{
-//#include "[T1][FLY][Wyvern Rider](Helmetless)]F]{Flasuban, eCut}/4. Handaxe/Handaxe Installer.event"
-}
-{
-//#include "[T1][FLY][Wyvern Rider](Helmetless)]F]{Flasuban, eCut}/8. Unarmed/Unarmed Installer.event"
-}
-//Noble
-{
-#include "Noble (N426)/Fe Noble Staff/noble_stf1 Installer.event"
-}
-{
-#include "Noble (N426)/Fe Noble Sword/Sword Installer.event"
-}
+#include "[T2][MAG][Dark Knight](3DS-Style)[U]{Pikmin1211, Jj09, DerTheVaporeon}/1. Sword (jj09, DerTheVaporeon)/SwordDarkKnight Installer.event"
+#include "[T2][MAG][Dark Knight](3DS-Style)[U]{Pikmin1211, Jj09, DerTheVaporeon}/6. Magic (jj09, DerTheVaporeon)/MagicDarkKnight Installer.event"
+#include "Dark Mage M/MagicDarkMageM Installer.event"
+#include "Lord/Sword/SwordLord Installer.event"
+#include "Lord/Unarmed/UnarmedLord Installer.event"
+#include "Rogue/Knife/SwordRogue Installer.event"
+#include "Rogue/Staff/StaffRogue Installer.event"

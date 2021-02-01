@@ -1,7 +1,7 @@
 INLINE MagCharTable,Base Magic,Magic Growth
 None,0,0
-Eirika,3,40
-Seth,4,25
+Eirika,5,40
+Seth,2,25
 Gilliam,0,5
 Franz,1,10
 Moulder,3,40
@@ -66,8 +66,8 @@ Ewan's Summon,0,0
 Lyon (Ch 17),13,50
 Morva (Ch 20),6,85
 Orson (Ch 5x),3,10
-Valter (Ch 15),2,5
-Selena (Ch 10B +ACY- 13B),10,40
+Valter (Ch 15),0,5
+Selena (Ch 10B +ACY- 13B),7,40
 Valter (Prologue),2,5
 Breguet (Ch 1),0,5
 Bone (Ch 2),0,5

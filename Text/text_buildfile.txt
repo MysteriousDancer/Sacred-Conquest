@@ -265,7 +265,8 @@ hesitate to attempt to sway you to his side.[A]
 [OpenLeft][LoadFace][0x02][0x01][OpenMidRight][LoadFace][0x48][0x01][OpenFarLeft][LoadFace][0x24][0x01]
 [OpenLeft]Ryoma. Withdraw your troops.[A]
 [OpenMidRight]What? You can't mean that, Corrin![A]
-[OpenLeft]I'm sorry Ryoma, but I will not fight for Hoshido.[A]
+[OpenLeft]I'm sorry Ryoma, [NL]
+but I will not fight for Hoshido.[A]
 [OpenMidRight]They have trampled our lands. They stole you[NL]
 from us! They killed our father![ANL]
 You are a princess of Hoshido! [NL]
@@ -399,3 +400,6 @@ Leo only. A sacred tome of Nohr.[X]
 
 # 0x0425
 Xander only. A sacred sword of Nohr.[.][X]
+
+# 0x02E9
+Shrine Maiden[X]
