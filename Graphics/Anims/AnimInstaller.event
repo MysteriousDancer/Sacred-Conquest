@@ -1,9 +1,20 @@
 ButlerSt:
-#incext Png2Dmp "ButlerStandingTest.png"--lz77
+#incext Png2Dmp "ButlerStanding.png"--lz77
 
 ButlerMv:
 #incext Png2Dmp "ButlerMoving.png"--lz77
 
+DarkKnightSt:
+#incext Png2Dmp "DankKnightStanding.png"--lz77
+
+DarkKnightMv:
+#incext Png2Dmp "DankKnightMoving.png"--lz77
+
+MaligSt:
+#incext Png2Dmp "MaligStanding.png"--lz77
+
+MaligMv:
+#incext Png2Dmp "MaligMoving.png"--lz77
 
 //#define Large 0x02 Use for 32x32 frames
 //#define Medium 0x01 Use for 32x16 frames
