@@ -1,0 +1,69 @@
+EventPointerTable(0x0A,PointerList1) //7 is the ID for prologue events in vanilla FE8
+
+PointerList1:
+POIN TurnBasedEvents1
+POIN CharacterBasedEvents1
+POIN LocationBasedEvents1
+POIN MiscBasedEvents1
+POIN Dunno1 Dunno1 Dunno1
+POIN Tutorial1
+POIN TrapData1 TrapDataHard1
+POIN PlayerUnits1 PlayerUnits1
+POIN $0 $0 $0 $0 $0 $0
+POIN BeginningScene1 EndingScene1
+
+TurnBasedEvents1:
+END_MAIN
+
+CharacterBasedEvents1:
+END_MAIN
+
+LocationBasedEvents1:
+END_MAIN
+
+MiscBasedEvents1:
+End_MAIN
+
+Dunno1:
+End_MAIN
+
+Tutorial1:
+End_MAIN
+
+PlayerUnits1:
+UNIT Eirika EirikaLord Eirika Level(0,Ally,False) [10,20] 0x0 0x0 0x0 0x1 [Rapier] NoAI
+UNIT Seth Bishop Eirika Level(0,Ally,False) [9,4] 0x0 0x0 0x0 0x1 [Heal] NoAI
+UNIT
+
+TrapData1:
+End_Main
+
+TrapDataHard1:
+End_Main
+
+BeginningScene1:
+//SetBackground(????)
+//Text(????)
+//CALL $9EE2C4
+//ENUN
+
+LOAD1 1 PlayerUnits1
+ENUN
+
+//FAWU
+//ENUN
+
+EnableFreeMovement
+ENUN
+
+//Text(???)
+//ENUN
+
+ENDA
+
+EndingScene1:
+ASMC DisableFreeMovementASMC
+MNTS 0x1 //return to title screen
+NoFade
+ENUN
+ENDA

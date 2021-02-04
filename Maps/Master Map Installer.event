@@ -11,4 +11,5 @@
 
 {
 #include "Prologue.event"
+#include "Castle.event"
 }

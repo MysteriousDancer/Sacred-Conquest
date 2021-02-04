@@ -21,7 +21,7 @@
 
 //Anathema: -10 Avoid/Dodge to all enemies within 3 tiles.
 //Author Unknown (Initial Commit)
-#define AnathemaID 255
+#define AnathemaID 108
 
 //Blood Tide: Atk and Hit +5 to adjacent allies.
 //By Sme
@@ -1051,4 +1051,4 @@
 #define Roll12ID 255
 #define TraceID 255
 
-//next 108
+//next 109

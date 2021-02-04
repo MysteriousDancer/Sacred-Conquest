@@ -13,7 +13,7 @@ setMugEntry(0x5, Elise_Mug, 2, 6, 3, 3)
 
 Effie_Mug:
 #incext PortraitFormatter "Graphics/EffieStandin.png"
-setMugEntry(0x7, Effie_Mug, 2, 6, 3, 4)
+setMugEntry(0x7, Effie_Mug, 3, 6, 3, 4)
 
 Arthur_Mug:
 #incext PortraitFormatter "Graphics/Arthur.png"
@@ -37,7 +37,7 @@ setMugEntry(0x10, Nyx_Mug, 3, 5, 3, 3)
 
 Camilla_Mug:
 #incext PortraitFormatter "Graphics/CamillaStandin.png"
-setMugEntry(0x11, Camilla_Mug, 2, 5, 2, 3)
+setMugEntry(0x11, Camilla_Mug, 3, 5, 3, 3)
 
 Laslow_Mug:
 #incext PortraitFormatter "Graphics/Laslow.png"

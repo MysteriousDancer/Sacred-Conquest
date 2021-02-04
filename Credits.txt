@@ -1,2 +1,52 @@
+--Mugs--
+SomeDenseGuy: Corrin (Old)
+SatoshiKura: Arthur, 
+BatimaTheBat: Azura, Sakura, Laslow, Odin
+Xenith: Hazel
+LaurentLaicrox: Gunter
+Peerless: Jacynth
+HonokaSuzumiya: Kaito
+Lenh: Lilith
+Nobody: Nyx, Mozu, Charlotte
+Tavenger: Peri
+Hugin: Elise
+MrGreen3339: Sorell
+TheTealGanon: Takumi
+Sme: Hinoka
+Melia: Anna
+Autonima: Corrin
+Zoramine Fae: Beruka
+
+--Animations+Map Sprites--
 Grated Shtick: Dragon Fang Animation
 Smug_Mug: Battle Sage Magic Standing/Moving Male/Female
+Pikmin1211: Dark Knight Standing/Moving, Malig Knight Standing/Moving, Dark Knight Anim, Dark Mage Anim M, Malig Knight Anim, Rogue Anim M
+Nuramon: Dark Knight Standing/Moving
+DerTheVaporeon: Dark Knight Standing/Moving, Dark Knight Anim
+jj09: Dark Knight Anim, Dark Mage M/F Anim, Malig Knight Anim
+Gabriel Knight: Fencer Anim
+Teraspark: Myrrh Repalette Anim
+7743: Malig Knight Anim
+Jey the Count: Malig Knight Anim
+Maiser6: Rogue Anim M 
+Ukelele: Rogue Anim M
+SD9k: Rogue Anim M
+Temp: Rogue Anim M
+Black Mage: Rogue Anim M
+Wan: Rogue Anim M
+Orihara_Saki: Rogue Anim M
+ltranc: Rogue Anim M
+
+--Music--
+Mycahel: A Dark Fall, A Dark Fall (Fire), Glory/Ruin, Glory/Ruin (Deeds)
+MrGreen3339: Justice RIP
+Sme: Past Below (Flow)
+
+--Icons--
+Erishkigal: Dagger Icons
+JeorgeReds: Skill Icons
+Blade: Skill Icons
+Pikmin1211: Skill Icons
+Zelix: Beaststone and Dragonstone Icons
+Beansy: Yato, Siegfried, Fujin Yumi, Brynhildr, and Bolverk icons
+GratedShtick: Rajinto Icon

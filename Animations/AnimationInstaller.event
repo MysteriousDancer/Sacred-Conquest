@@ -18,3 +18,7 @@
 #include "Lord/Unarmed/UnarmedLord Installer.event"
 #include "Rogue/Knife/SwordRogue Installer.event"
 #include "Rogue/Staff/StaffRogue Installer.event"
+#include "Manakete/Dragonstone/DragonstoneLord Installer.event"
+#include "Malig Knight/Axe Installer.event"
+#include "Malig Knight/Magic Installer.event"
+#include "Malig Knight/Handaxe Installer.event"

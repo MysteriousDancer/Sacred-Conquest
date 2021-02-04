@@ -1,0 +1,149 @@
+/// - Mode 1
+C03
+C07
+1 p- DragonstoneLord_000.png
+8 p- DragonstoneLord_001.png
+6 p- DragonstoneLord_002.png
+3 p- DragonstoneLord_003.png
+20 p- DragonstoneLord_004.png
+3 p- DragonstoneLord_005.png
+C05
+4 p- DragonstoneLord_006.png
+1 p- DragonstoneLord_007.png
+C01
+6 p- DragonstoneLord_008.png
+1 p- DragonstoneLord_009.png
+C06
+5 p- DragonstoneLord_010.png
+1 p- DragonstoneLord_011.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- DragonstoneLord_012.png
+8 p- DragonstoneLord_013.png
+6 p- DragonstoneLord_014.png
+C33
+2 p- DragonstoneLord_015.png
+2 p- DragonstoneLord_016.png
+2 p- DragonstoneLord_017.png
+2 p- DragonstoneLord_018.png
+2 p- DragonstoneLord_019.png
+2 p- DragonstoneLord_020.png
+3 p- DragonstoneLord_021.png
+20 p- DragonstoneLord_022.png
+3 p- DragonstoneLord_023.png
+C05
+4 p- DragonstoneLord_024.png
+1 p- DragonstoneLord_025.png
+C01
+6 p- DragonstoneLord_026.png
+1 p- DragonstoneLord_027.png
+C06
+5 p- DragonstoneLord_028.png
+1 p- DragonstoneLord_029.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- DragonstoneLord_030.png
+8 p- DragonstoneLord_031.png
+6 p- DragonstoneLord_032.png
+3 p- DragonstoneLord_033.png
+20 p- DragonstoneLord_034.png
+3 p- DragonstoneLord_035.png
+C05
+4 p- DragonstoneLord_036.png
+1 p- DragonstoneLord_037.png
+C01
+6 p- DragonstoneLord_038.png
+1 p- DragonstoneLord_039.png
+C06
+5 p- DragonstoneLord_040.png
+1 p- DragonstoneLord_041.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- DragonstoneLord_042.png
+8 p- DragonstoneLord_043.png
+6 p- DragonstoneLord_044.png
+C33
+2 p- DragonstoneLord_045.png
+2 p- DragonstoneLord_046.png
+2 p- DragonstoneLord_047.png
+2 p- DragonstoneLord_048.png
+3 p- DragonstoneLord_049.png
+20 p- DragonstoneLord_050.png
+3 p- DragonstoneLord_051.png
+C05
+4 p- DragonstoneLord_052.png
+1 p- DragonstoneLord_053.png
+C01
+6 p- DragonstoneLord_054.png
+1 p- DragonstoneLord_055.png
+C06
+5 p- DragonstoneLord_056.png
+1 p- DragonstoneLord_057.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- DragonstoneLord_058.png
+C0E
+4 p- DragonstoneLord_059.png
+2 p- DragonstoneLord_060.png
+1 p- DragonstoneLord_061.png
+C01
+3 p- DragonstoneLord_062.png
+1 p- DragonstoneLord_063.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- DragonstoneLord_064.png
+C0E
+4 p- DragonstoneLord_065.png
+2 p- DragonstoneLord_066.png
+1 p- DragonstoneLord_067.png
+C01
+3 p- DragonstoneLord_068.png
+1 p- DragonstoneLord_069.png
+C0D
+~~~
+/// - Mode 9
+1 p- DragonstoneLord_070.png
+C01
+~~~
+/// - Mode 10
+1 p- DragonstoneLord_071.png
+C01
+~~~
+/// - Mode 11
+1 p- DragonstoneLord_072.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- DragonstoneLord_073.png
+8 p- DragonstoneLord_074.png
+6 p- DragonstoneLord_075.png
+3 p- DragonstoneLord_076.png
+20 p- DragonstoneLord_077.png
+3 p- DragonstoneLord_078.png
+C05
+4 p- DragonstoneLord_079.png
+1 p- DragonstoneLord_080.png
+C01
+6 p- DragonstoneLord_081.png
+1 p- DragonstoneLord_082.png
+C06
+5 p- DragonstoneLord_083.png
+1 p- DragonstoneLord_084.png
+C0D
+~~~
+/// - End of animation

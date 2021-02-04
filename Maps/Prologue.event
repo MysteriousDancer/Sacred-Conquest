@@ -2,6 +2,6 @@
 
 #include eastdlib.event
 
-SetChapterData(0,1,0,2,3,4,Map,5,0,0)
-Map:
+SetChapterData(0x0,0x1,0,0x2,0x3,0x4,Map1,0x5,0,0)
+Map1:
 #incbin "Prologue_data.dmp"

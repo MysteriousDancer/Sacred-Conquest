@@ -22,11 +22,13 @@ BYTE 00 00
 ALIGN 4
 
 CavalierSkillList:
-BYTE 10 ElbowRoomID
+BYTE 1 ElbowRoomID
+BYTE 10 OutdoorFighterID
 BYTE 00 00
 
 PaladinSkillList:
 BYTE 255 ElbowRoomID
+BYTE 255 OutdoorFighterID
 BYTE 15 AegisID
 BYTE 00 00
 ALIGN 4
@@ -54,10 +56,16 @@ BYTE 00 00
 ALIGN 4
 
 MyrmidonSkillList:
+BYTE 1 DuelistsBlowID
+BYTE 10 VantageID
 BYTE 00 00
 ALIGN 4
 
 SwordmasterSkillList:
+BYTE 255 DuelistsBlowID
+BYTE 255 VantageID
+BYTE 5 AstraID
+BYTE 15 SwordfaireID
 BYTE 00 00
 ALIGN 4
 
@@ -68,10 +76,14 @@ BYTE 00 00
 ALIGN 4
 
 ArcherSkillList:
+BYTE 1 SklPlus2ID
+BYTE 10 QuickDrawID 
 BYTE 00 00
 ALIGN 4
 
 SniperSkillList:
+BYTE 255 SklPlus2ID
+BYTE 255 QuickDrawID 
 BYTE 00 00
 ALIGN 4
 
@@ -118,6 +130,7 @@ BYTE 00 00
 ALIGN 4
 
 ShamanSkillList:
+BYTE 1 AnathemaID
 BYTE 10 MaleficAuraID
 BYTE 00 00
 ALIGN 4
@@ -127,15 +140,15 @@ BYTE 00 00
 ALIGN 4
 
 SummonerSkillList:
+BYTE 1 CantoID
 BYTE 255 MaleficAuraID
+BYTE 255 AnathemaID
 BYTE 5 SealMagID
 BYTE 15 LifetakerID
 BYTE 00 00
 ALIGN 4
 
 RogueSkillList:
-BYTE 255 StealID
-BYTE 1 LocktouchID
 BYTE 00 00
 ALIGN 4
 
@@ -176,14 +189,22 @@ BYTE 00 00
 ALIGN 4
 
 PegKnightSkillList:
+BYTE 1 DartingBlowID
+Byte 10 CamaraderieID
 BYTE 00 00
 ALIGN 4
 
 FalcoknightSkillList:
+BYTE 255 DartingBlowID
+Byte 255 CamaraderieID
+BYTE 5 RallySpdID
+BYTE 15 WardingBlowID
 BYTE 00 00
 ALIGN 4
 
 ClericSkillList:
+BYTE 1 MiracleID
+BYTE 10 RallyLukID
 BYTE 00 00
 ALIGN 4
 
@@ -194,6 +215,8 @@ BYTE 00 00
 ALIGN 4
 
 ValkyrieSkillList:
+BYTE 255 ResPlus2ID
+BYTE 255 DemoiselleID
 BYTE 00 00
 ALIGN 4
 
@@ -276,7 +299,8 @@ BYTE 00 00
 ALIGN 4
 
 CavalierSkillList:
-BYTE 10 ElbowRoomID
+BYTE 1 ElbowRoomID
+BYTE 10 
 BYTE 00 00
 
 PaladinSkillList:

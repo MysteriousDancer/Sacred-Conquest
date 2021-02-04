@@ -21,7 +21,7 @@
     MESSAGE Used hax space ends at currentOffset
 
     //Events
-    #include "Events/Prologue.event"
+    #include "Events/Event Installer.event"
 
     //Maps
     #include "Maps/Master Map Installer.event"
@@ -30,6 +30,7 @@
     #include "Portrait Installer.event"
     #include "Animations/AnimationInstaller.event"
     #include "Graphics/Anims/AnimInstaller.event"
+    #include "Animations/Animation Reference.event"
 
 ALIGN 4
 //disable opening world map

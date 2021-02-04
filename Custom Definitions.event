@@ -32,4 +32,18 @@
 
 #include "Engine Hacks/SkillSystem/skill_definitions.event"
 
+#define SwordAnim(Animation) "BYTE Swords 0x01 ; SHORT Animation"
+#define SpearAnim(Animation) "BYTE Spears 0x01 ; SHORT Animation"
+#define LanceAnim(Animation) "BYTE Spears 0x1 ; SHORT Animation"
+#define AxeAnim(Animation) "BYTE Axes 0x01 ; SHORT Animation"
+#define HandAxeAnim(Animation) "BYTE HandAxe 0x00 ; SHORT Animation ; BYTE Tomahawk 0x00 ; SHORT Animation ; BYTE Hatchet 0x00 ; SHORT Animation"
+#define BowAnim(Animation) "BYTE Bows 0x01 ; SHORT Animation"
+#define StaffAnim(Animation) "BYTE Staves 0x01 ; SHORT Animation"
+#define AnimaAnim(Animation) "BYTE Anima 0x01 ; SHORT Animation"
+#define LightAnim(Animation) "BYTE Light 0x01 ; SHORT Animation"
+#define DarkAnim(Animation) "BYTE Dark 0x01 ; SHORT Animation"
+#define UnarmedAnim(Animation) "BYTE Item 0x01 ; SHORT Animation"
+#define SpecialAnim(Animation,Weapon) "BYTE Weapon 0x00 ; SHORT Animation"
+#define Item 0x9
+
  #define __DEBUG__ // Uncomment to get the Debug startup menu :p
