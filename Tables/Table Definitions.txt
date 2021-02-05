@@ -160,6 +160,19 @@
 #define MonsterType	0x10
 #define SwordType	0x20
 
+//Status Effects
+#define NoStatusID 0
+#define PoisonStatusID 1
+#define SleepStatusID 2
+#define SilenceStatusID 3
+#define BerserkStatusID 4
+#define AtkRingStatusID 5
+#define DefRingStatusID 6
+#define CritRingStatusID 7
+#define AvoRingStatusID 8
+#define SickStatusID 9
+#define PetrifyStatusID 13
+
 #endif
 
 #include "External Tables.event"

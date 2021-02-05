@@ -4,7 +4,7 @@
 // This file holds configuration switches for all hacks shipped with the skill system
 
 // If commented, the skill reorder warning will not be displayed.
-#define SHOW_SKILL_WARNING
+//#define SHOW_SKILL_WARNING
 
 
 // ===================================

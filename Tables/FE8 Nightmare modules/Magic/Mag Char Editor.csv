@@ -2,7 +2,7 @@ INLINE MagCharTable,Base Magic,Magic Growth
 None,0,0
 Eirika,5,40
 Seth,2,25
-Gilliam,0,5
+Gilliam,10,75
 Franz,1,10
 Moulder,3,40
 Vanessa,2,25
@@ -12,7 +12,7 @@ Colm,1,10
 Garcia,0,5
 Innes,1,10
 Lute,5,65
-Natasha,1,60
+Natasha,10,40
 Cormag,0,5
 Ephraim,0,15
 Forde,1,10
@@ -22,12 +22,12 @@ Artur,5,50
 Gerik,0,10
 Tethys,0,5
 Marisa,1,10
-Saleh,11,30
+Saleh,15,65
 Ewan,2,45
 L'Arachel,5,50
 Dozla,0,5
 +AC0-0,0,50
-Rennac,3,35
+Rennac,2,5
 Duessel,0,5
 Myrrh,2,85
 Knoll,10,50

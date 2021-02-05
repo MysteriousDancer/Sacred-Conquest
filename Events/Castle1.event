@@ -32,7 +32,7 @@ End_MAIN
 
 PlayerUnits1:
 UNIT Eirika EirikaLord Eirika Level(0,Ally,False) [10,20] 0x0 0x0 0x0 0x1 [Rapier] NoAI
-UNIT Seth Bishop Eirika Level(0,Ally,False) [9,4] 0x0 0x0 0x0 0x1 [Heal] NoAI
+UNIT Seth Bishop Eirika Level(0,NPC,False) [9,4] 0x0 0x0 0x0 0x1 [Heal] [0x0, 0x3, 0x4, 0x20]
 UNIT
 
 TrapData1:
@@ -53,16 +53,14 @@ ENUN
 //FAWU
 //ENUN
 
-EnableFreeMovement
-ENUN
-
+//EnableFreeMovement
 //Text(???)
 //ENUN
 
 ENDA
 
 EndingScene1:
-ASMC DisableFreeMovementASMC
+//ASMC DisableFreeMovementASMC
 MNTS 0x1 //return to title screen
 NoFade
 ENUN

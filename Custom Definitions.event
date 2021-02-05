@@ -46,4 +46,6 @@
 #define SpecialAnim(Animation,Weapon) "BYTE Weapon 0x00 ; SHORT Animation"
 #define Item 0x9
 
+#include "Tables/TableDefinitions.event"
+
  #define __DEBUG__ // Uncomment to get the Debug startup menu :p

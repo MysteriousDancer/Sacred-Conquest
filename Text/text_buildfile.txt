@@ -403,3 +403,11 @@ Xander only. A sacred sword of Nohr.[.][X]
 
 # 0x02E9
 Shrine Maiden[X]
+
+# 0x0518
+Frozen[X]
+
+# 0x0515
+Freeze[.][X]
+
+//first empty is 0x0E99
