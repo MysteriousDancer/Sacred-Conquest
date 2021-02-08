@@ -32,6 +32,9 @@
     #include "Graphics/Anims/AnimInstaller.event"
     #include "Animations/Animation Reference.event"
 
+    //Music
+    //#include "Music/Music Installer.event"
+
 ALIGN 4
 //disable opening world map
 ORG $A39768

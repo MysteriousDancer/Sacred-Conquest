@@ -410,4 +410,7 @@ Frozen[X]
 # 0x0515
 Freeze[.][X]
 
+# 0x07C1
+A Lady's Mirror[.][X]
+
 //first empty is 0x0E99
