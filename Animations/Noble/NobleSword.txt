@@ -1,0 +1,204 @@
+/// - Mode 1
+C03
+C07
+3 p- NobleSword_000.png
+3 p- NobleSword_001.png
+3 p- NobleSword_002.png
+4 p- NobleSword_003.png
+4 p- NobleSword_004.png
+C24
+C04
+4 p- NobleSword_005.png
+2 p- NobleSword_006.png
+C1A
+C1F
+2 p- NobleSword_007.png
+3 p- NobleSword_006.png
+C01
+3 p- NobleSword_008.png
+3 p- NobleSword_009.png
+2 p- NobleSword_010.png
+2 p- NobleSword_011.png
+2 p- NobleSword_012.png
+C06
+2 p- NobleSword_013.png
+2 p- NobleSword_014.png
+C34
+2 p- NobleSword_015.png
+2 p- NobleSword_016.png
+C1B
+2 p- NobleSword_017.png
+2 p- NobleSword_018.png
+2 p- NobleSword_019.png
+2 p- NobleSword_020.png
+5 p- NobleSword_000.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- NobleSword_000.png
+4 p- NobleSword_021.png
+4 p- NobleSword_022.png
+C22
+4 p- NobleSword_023.png
+4 p- NobleSword_024.png
+4 p- NobleSword_025.png
+C4F
+4 p- NobleSword_026.png
+4 p- NobleSword_027.png
+4 p- NobleSword_028.png
+4 p- NobleSword_029.png
+4 p- NobleSword_030.png
+4 p- NobleSword_031.png
+4 p- NobleSword_032.png
+4 p- NobleSword_033.png
+4 p- NobleSword_034.png
+4 p- NobleSword_035.png
+4 p- NobleSword_036.png
+4 p- NobleSword_037.png
+5 p- NobleSword_038.png
+5 p- NobleSword_039.png
+5 p- NobleSword_040.png
+5 p- NobleSword_041.png
+5 p- NobleSword_042.png
+3 p- NobleSword_043.png
+2 p- NobleSword_044.png
+2 p- NobleSword_045.png
+2 p- NobleSword_046.png
+C1F
+C20
+C0C
+C04
+32 p- NobleSword_047.png
+18 p- NobleSword_047.png
+C01
+4 p- NobleSword_048.png
+3 p- NobleSword_009.png
+2 p- NobleSword_010.png
+2 p- NobleSword_011.png
+2 p- NobleSword_012.png
+C06
+2 p- NobleSword_013.png
+2 p- NobleSword_014.png
+C34
+2 p- NobleSword_015.png
+2 p- NobleSword_016.png
+C1B
+2 p- NobleSword_017.png
+2 p- NobleSword_018.png
+2 p- NobleSword_019.png
+2 p- NobleSword_020.png
+5 p- NobleSword_000.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+3 p- NobleSword_000.png
+4 p- NobleSword_049.png
+C43
+15 p- NobleSword_050.png
+C22
+6 p- NobleSword_051.png
+C05
+4 p- NobleSword_052.png
+C01
+C06
+4 p- NobleSword_053.png
+3 p- NobleSword_000.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+3 p- NobleSword_000.png
+4 p- NobleSword_049.png
+C43
+15 p- NobleSword_050.png
+3 p- NobleSword_051.png
+3 p- NobleSword_054.png
+3 p- NobleSword_052.png
+3 p- NobleSword_054.png
+3 p- NobleSword_052.png
+3 p- NobleSword_054.png
+3 p- NobleSword_052.png
+3 p- NobleSword_054.png
+3 p- NobleSword_052.png
+C05
+4 p- NobleSword_052.png
+C01
+C06
+4 p- NobleSword_053.png
+3 p- NobleSword_000.png
+C0D
+~~~
+/// - Mode 7
+C02
+3 p- NobleSword_000.png
+C0E
+2 p- NobleSword_055.png
+2 p- NobleSword_056.png
+3 p- NobleSword_057.png
+C01
+3 p- NobleSword_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+3 p- NobleSword_000.png
+C0E
+2 p- NobleSword_055.png
+2 p- NobleSword_056.png
+3 p- NobleSword_057.png
+C01
+3 p- NobleSword_000.png
+C0D
+~~~
+/// - Mode 9
+3 p- NobleSword_000.png
+C01
+~~~
+/// - Mode 10
+3 p- NobleSword_000.png
+C01
+~~~
+/// - Mode 11
+3 p- NobleSword_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+3 p- NobleSword_000.png
+3 p- NobleSword_001.png
+3 p- NobleSword_002.png
+4 p- NobleSword_003.png
+4 p- NobleSword_004.png
+C24
+C04
+4 p- NobleSword_058.png
+2 p- NobleSword_059.png
+2 p- NobleSword_060.png
+3 p- NobleSword_061.png
+C01
+3 p- NobleSword_062.png
+3 p- NobleSword_063.png
+2 p- NobleSword_010.png
+2 p- NobleSword_011.png
+2 p- NobleSword_012.png
+C06
+2 p- NobleSword_013.png
+2 p- NobleSword_014.png
+C34
+2 p- NobleSword_015.png
+2 p- NobleSword_016.png
+C1B
+2 p- NobleSword_017.png
+2 p- NobleSword_018.png
+2 p- NobleSword_019.png
+2 p- NobleSword_020.png
+5 p- NobleSword_000.png
+C0D
+~~~
+/// - End of animation

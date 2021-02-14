@@ -16,19 +16,30 @@ TurnBasedEvents1:
 END_MAIN
 
 CharacterBasedEvents1:
+ALIGN 4
+CharacterEvent(0,JakobTalk,Eirika,Seth)
 END_MAIN
 
 LocationBasedEvents1:
+Armory(Shop1,5,10)
+Vendor(Vendor1,15,10)
 END_MAIN
 
+Shop1: 
+SHLI 0x1 0x2 0x14 0x15 0x1f 0x3f 0x38 0x39
+
+Vendor1:
+SHLI 0x4b 0x4c 0x6c
+
+ALIGN 4
 MiscBasedEvents1:
-End_MAIN
+END_MAIN
 
 Dunno1:
-End_MAIN
+END_MAIN
 
 Tutorial1:
-End_MAIN
+END_MAIN
 
 PlayerUnits1:
 UNIT Eirika EirikaLord Eirika Level(0,Ally,False) [10,20] 0x0 0x0 0x0 0x1 [Rapier] NoAI
@@ -36,33 +47,43 @@ UNIT Seth Bishop Eirika Level(0,Ally,False) [9,4] 0x0 0x0 0x0 0x1 [Heal] [0x0, 0
 UNIT
 
 TrapData1:
-End_Main
+END_MAIN
 
 TrapDataHard1:
-End_Main
+END_MAIN
 
+ALIGN 4
 BeginningScene1:
-//SetBackground(????)
-//Text(????)
-//CALL $9EE2C4
-//ENUN
+ALIGN 4
+REMU 0x0D
+REMU 0x03
+REMU 0x17 
+REMU 0x1C
+ENUN
 
 LOAD1 1 PlayerUnits1
 ENUN
 
-//FAWU
-//ENUN
+CAM1 0x01
 
-ALIGN 4
 EnableFreeMovement
-//Text(???)
 ENUN
 
+//ASMC MakeShopASMC
+//ENUN
+
+//GIVE_MONEY 0 2000
+//ENUN
+
+NoFade
 ENDA
 
 EndingScene1:
-//ASMC DisableFreeMovementASMC
-MNTS 0x1 //return to title screen
-NoFade
-ENUN
 ENDA
+
+JakobTalk:
+ALIGN 4
+Text(0x0929)
+ASMC DisableFreeMovementASMC
+MNC2 0x2
+END_MAIN

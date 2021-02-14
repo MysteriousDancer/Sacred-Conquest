@@ -1,4 +1,3 @@
-
 # 0x0002 textWeaponRankIncreasedTo
  Weapon rank increased to [X]
 
@@ -282,8 +281,8 @@ the battlefield![A]
 [OpenMidRight]You will recieve no forgiveness from me.[NL]
 You wish to side with Nohr?[ANL]
 First, you must defeat your true brother.[ANL]
-Mother surely regrets her decision to[NL]
-gift you that sword.[ANL]
+I never should have gifted you that[NL]
+sword.[ANL]
 [OpenMidLeft]Ryoma, please, stop this![A]
 [OpenMidRight]Those Nohrians have brainwashed you,[ANL]
 and I will not rest until you've[NL]
@@ -401,6 +400,30 @@ Leo only. A sacred tome of Nohr.[X]
 # 0x0425
 Xander only. A sacred sword of Nohr.[.][X]
 
+# 0x0918
+[OpenMidRight][LoadFace][0x02][0x01]
+[OpenMidRight]Ryoma, Hinoka, Takumi, Sakura...[NL]
+I'm so sorry for letting you all down.[ANL]
+But I can't abandon everyone I've always loved.[ANL]
+I can only hope they'll understand.[ANL][X]
+
+# 0x0896
+My sister supplies [NL]
+our stock here. [A][0x02][NL]
+But we only take gold. [NL]
+We don't do trades.[A][X]
+
+## 
+Welcome![ANL]
+Take a look at what's[NL]
+on sale![ANL][X]
+
+# 0x0898
+Come back soon![A][X]
+
+##
+See you later!
+
 # 0x02E9
 Shrine Maiden[X]
 
@@ -413,4 +436,8 @@ Freeze[.][X]
 # 0x07C1
 A Lady's Mirror[.][X]
 
-//first empty is 0x0E99
+# 0x0161
+A Dragon's Decree[.][X]
+
+##
+A Dragon's Decree[.][X]

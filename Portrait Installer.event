@@ -94,3 +94,11 @@ setMugEntry(0x16, Beruka_Mug, 3, 5, 3, 3)
 Hinoka_Mug:
 #incext PortraitFormatter "Graphics/Hinoka.png"
 setMugEntry(0x43, Hinoka_Mug, 2, 6, 3, 4)
+
+Shop_Anna_Mug:
+#incext PortraitFormatter "Graphics/ShopAnna.png"
+setMugEntry(0x65, Shop_Anna_Mug, 3, 3, 2, 0)
+
+Vendor_Mug:
+#incext PortraitFormatter "Graphics/AimeeVendor.png"
+setMugEntry(0x66, Vendor_Mug, 3, 3, 2, 0)

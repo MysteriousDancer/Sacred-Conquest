@@ -22,3 +22,6 @@
 #include "Malig Knight/Axe Installer.event"
 #include "Malig Knight/Magic Installer.event"
 #include "Malig Knight/Handaxe Installer.event"
+#include "DarkMageF/DarkMageFMagic Installer.event"
+#include "Noble/NobleMagic Installer.event"
+#include "Noble/NobleSword Installer.event"

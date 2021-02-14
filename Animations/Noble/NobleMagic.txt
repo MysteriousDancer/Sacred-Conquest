@@ -1,0 +1,280 @@
+/// - Mode 1
+C03
+C07
+1 p- NobleMagic_000.png
+8 p- NobleMagic_001.png
+10 p- NobleMagic_002.png
+C25
+4 p- NobleMagic_003.png
+3 p- NobleMagic_004.png
+30 p- NobleMagic_005.png
+C2E
+C49
+C25
+2 p- NobleMagic_006.png
+2 p- NobleMagic_007.png
+3 p- NobleMagic_008.png
+4 p- NobleMagic_009.png
+6 p- NobleMagic_010.png
+4 p- NobleMagic_011.png
+4 p- NobleMagic_012.png
+4 p- NobleMagic_013.png
+4 p- NobleMagic_014.png
+40 p- NobleMagic_015.png
+2 p- NobleMagic_016.png
+C05
+4 p- NobleMagic_017.png
+3 p- NobleMagic_018.png
+2 p- NobleMagic_019.png
+2 p- NobleMagic_020.png
+2 p- NobleMagic_021.png
+2 p- NobleMagic_022.png
+2 p- NobleMagic_019.png
+2 p- NobleMagic_020.png
+2 p- NobleMagic_021.png
+4 p- NobleMagic_022.png
+C01
+2 p- NobleMagic_020.png
+6 p- NobleMagic_023.png
+4 p- NobleMagic_024.png
+4 p- NobleMagic_025.png
+4 p- NobleMagic_000.png
+C06
+1 p- NobleMagic_000.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- NobleMagic_000.png
+4 p- NobleMagic_026.png
+6 p- NobleMagic_027.png
+3 p- NobleMagic_026.png
+3 p- NobleMagic_027.png
+3 p- NobleMagic_026.png
+3 p- NobleMagic_027.png
+8 p- NobleMagic_001.png
+10 p- NobleMagic_002.png
+C25
+4 p- NobleMagic_003.png
+3 p- NobleMagic_004.png
+30 p- NobleMagic_005.png
+C2E
+C49
+C25
+2 p- NobleMagic_006.png
+2 p- NobleMagic_007.png
+3 p- NobleMagic_008.png
+4 p- NobleMagic_009.png
+6 p- NobleMagic_010.png
+4 p- NobleMagic_011.png
+4 p- NobleMagic_012.png
+4 p- NobleMagic_013.png
+4 p- NobleMagic_014.png
+40 p- NobleMagic_015.png
+2 p- NobleMagic_016.png
+C05
+4 p- NobleMagic_017.png
+3 p- NobleMagic_018.png
+L
+2 p- NobleMagic_019.png
+2 p- NobleMagic_020.png
+2 p- NobleMagic_021.png
+2 p- NobleMagic_022.png
+2 p- NobleMagic_019.png
+2 p- NobleMagic_020.png
+2 p- NobleMagic_021.png
+4 p- NobleMagic_022.png
+C01
+2 p- NobleMagic_020.png
+6 p- NobleMagic_023.png
+4 p- NobleMagic_024.png
+4 p- NobleMagic_025.png
+4 p- NobleMagic_000.png
+C06
+1 p- NobleMagic_000.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- NobleMagic_000.png
+8 p- NobleMagic_001.png
+10 p- NobleMagic_002.png
+C25
+4 p- NobleMagic_003.png
+3 p- NobleMagic_004.png
+30 p- NobleMagic_005.png
+C2E
+C49
+C25
+2 p- NobleMagic_006.png
+2 p- NobleMagic_007.png
+3 p- NobleMagic_008.png
+4 p- NobleMagic_009.png
+6 p- NobleMagic_010.png
+4 p- NobleMagic_011.png
+4 p- NobleMagic_012.png
+4 p- NobleMagic_013.png
+4 p- NobleMagic_014.png
+40 p- NobleMagic_015.png
+2 p- NobleMagic_016.png
+C05
+4 p- NobleMagic_017.png
+3 p- NobleMagic_018.png
+L
+2 p- NobleMagic_019.png
+2 p- NobleMagic_020.png
+2 p- NobleMagic_021.png
+2 p- NobleMagic_022.png
+2 p- NobleMagic_019.png
+2 p- NobleMagic_020.png
+2 p- NobleMagic_021.png
+4 p- NobleMagic_022.png
+C01
+2 p- NobleMagic_020.png
+6 p- NobleMagic_023.png
+4 p- NobleMagic_024.png
+4 p- NobleMagic_025.png
+4 p- NobleMagic_000.png
+C06
+1 p- NobleMagic_000.png
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- NobleMagic_000.png
+4 p- NobleMagic_026.png
+6 p- NobleMagic_027.png
+3 p- NobleMagic_026.png
+3 p- NobleMagic_027.png
+3 p- NobleMagic_026.png
+3 p- NobleMagic_027.png
+8 p- NobleMagic_001.png
+10 p- NobleMagic_002.png
+C25
+4 p- NobleMagic_003.png
+3 p- NobleMagic_004.png
+30 p- NobleMagic_005.png
+C2E
+C49
+C25
+2 p- NobleMagic_006.png
+2 p- NobleMagic_007.png
+3 p- NobleMagic_008.png
+4 p- NobleMagic_009.png
+6 p- NobleMagic_010.png
+4 p- NobleMagic_011.png
+4 p- NobleMagic_012.png
+4 p- NobleMagic_013.png
+4 p- NobleMagic_014.png
+40 p- NobleMagic_015.png
+2 p- NobleMagic_016.png
+C05
+4 p- NobleMagic_017.png
+3 p- NobleMagic_018.png
+L
+2 p- NobleMagic_019.png
+2 p- NobleMagic_020.png
+2 p- NobleMagic_021.png
+2 p- NobleMagic_022.png
+2 p- NobleMagic_019.png
+2 p- NobleMagic_020.png
+2 p- NobleMagic_021.png
+4 p- NobleMagic_022.png
+C01
+2 p- NobleMagic_020.png
+6 p- NobleMagic_023.png
+4 p- NobleMagic_024.png
+4 p- NobleMagic_025.png
+4 p- NobleMagic_000.png
+C06
+1 p- NobleMagic_000.png
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- NobleMagic_000.png
+C0E
+3 p- NobleMagic_003.png
+3 p- NobleMagic_004.png
+3 p- NobleMagic_005.png
+C01
+4 p- NobleMagic_025.png
+4 p- NobleMagic_000.png
+1 p- NobleMagic_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- NobleMagic_000.png
+C0E
+3 p- NobleMagic_003.png
+3 p- NobleMagic_004.png
+3 p- NobleMagic_005.png
+C01
+4 p- NobleMagic_025.png
+4 p- NobleMagic_000.png
+1 p- NobleMagic_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- NobleMagic_000.png
+C01
+~~~
+/// - Mode 10
+1 p- NobleMagic_000.png
+C01
+~~~
+/// - Mode 11
+1 p- NobleMagic_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- NobleMagic_000.png
+8 p- NobleMagic_001.png
+10 p- NobleMagic_002.png
+C25
+4 p- NobleMagic_003.png
+3 p- NobleMagic_004.png
+30 p- NobleMagic_005.png
+C2E
+C49
+C25
+2 p- NobleMagic_006.png
+2 p- NobleMagic_007.png
+3 p- NobleMagic_008.png
+4 p- NobleMagic_009.png
+6 p- NobleMagic_010.png
+4 p- NobleMagic_011.png
+4 p- NobleMagic_012.png
+4 p- NobleMagic_013.png
+4 p- NobleMagic_014.png
+40 p- NobleMagic_015.png
+2 p- NobleMagic_016.png
+C05
+4 p- NobleMagic_017.png
+3 p- NobleMagic_018.png
+L
+2 p- NobleMagic_019.png
+2 p- NobleMagic_020.png
+2 p- NobleMagic_021.png
+2 p- NobleMagic_022.png
+2 p- NobleMagic_019.png
+2 p- NobleMagic_020.png
+2 p- NobleMagic_021.png
+4 p- NobleMagic_022.png
+C01
+2 p- NobleMagic_020.png
+6 p- NobleMagic_023.png
+4 p- NobleMagic_024.png
+4 p- NobleMagic_025.png
+4 p- NobleMagic_000.png
+C06
+1 p- NobleMagic_000.png
+C0D
+~~~
+/// - End of animation

@@ -18,6 +18,8 @@
     #include "Engine Hacks/_MasterHackInstaller.event"
     #include "Engine Hacks/FreeMovement/FreeMovement.event"
     #include "Engine Hacks/256 colors Title background Installer/titlebackgroundinstaller.event"
+    #include "Engine Hacks/FreeMovement/MakeShopASMC.lyn.event"
+    //#include "Engine Hacks/EventMenu/CallEventMenu.s"
     MESSAGE Used hax space ends at currentOffset
 
     //Events

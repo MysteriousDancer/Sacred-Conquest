@@ -755,7 +755,7 @@
 
 //Armsthrift: Luck % chance to not consume weapon durability.
 //Author Unknown (Initial Commit)
-#define ArmsthriftID 255
+#define ArmsthriftID 109
 
 //Dazzle: Opponents cannot counterattack this unit.
 //By circleseverywhere
@@ -1051,4 +1051,4 @@
 #define Roll12ID 255
 #define TraceID 255
 
-//next 109
+//next 110

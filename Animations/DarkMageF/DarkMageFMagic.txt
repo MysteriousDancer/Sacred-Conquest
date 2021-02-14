@@ -1,0 +1,495 @@
+/// - Mode 1
+C07
+C03
+1 p- DarkMageFMagic_000.png
+4 p- DarkMageFMagic_001.png
+3 p- DarkMageFMagic_002.png
+3 p- DarkMageFMagic_003.png
+4 p- DarkMageFMagic_004.png
+4 p- DarkMageFMagic_005.png
+4 p- DarkMageFMagic_006.png
+3 p- DarkMageFMagic_005.png
+4 p- DarkMageFMagic_006.png
+3 p- DarkMageFMagic_005.png
+3 p- DarkMageFMagic_007.png
+C44
+3 p- DarkMageFMagic_005.png
+3 p- DarkMageFMagic_007.png
+3 p- DarkMageFMagic_008.png
+3 p- DarkMageFMagic_007.png
+3 p- DarkMageFMagic_008.png
+3 p- DarkMageFMagic_007.png
+3 p- DarkMageFMagic_008.png
+3 p- DarkMageFMagic_009.png
+3 p- DarkMageFMagic_010.png
+C23
+3 p- DarkMageFMagic_011.png
+3 p- DarkMageFMagic_012.png
+3 p- DarkMageFMagic_013.png
+2 p- DarkMageFMagic_014.png
+4 p- DarkMageFMagic_015.png
+2 p- DarkMageFMagic_016.png
+2 p- DarkMageFMagic_017.png
+4 p- DarkMageFMagic_018.png
+C28
+2 p- DarkMageFMagic_019.png
+2 p- DarkMageFMagic_020.png
+2 p- DarkMageFMagic_021.png
+3 p- DarkMageFMagic_022.png
+5 p- DarkMageFMagic_023.png
+3 p- DarkMageFMagic_024.png
+4 p- DarkMageFMagic_023.png
+3 p- DarkMageFMagic_022.png
+2 p- DarkMageFMagic_021.png
+4 p- DarkMageFMagic_020.png
+3 p- DarkMageFMagic_022.png
+2 p- DarkMageFMagic_024.png
+3 p- DarkMageFMagic_025.png
+2 p- DarkMageFMagic_026.png
+C23
+2 p- DarkMageFMagic_027.png
+2 p- DarkMageFMagic_028.png
+2 p- DarkMageFMagic_029.png
+1 p- DarkMageFMagic_030.png
+C1B
+1 p- DarkMageFMagic_031.png
+C06
+C05
+L
+3 p- DarkMageFMagic_031.png
+3 p- DarkMageFMagic_032.png
+3 p- DarkMageFMagic_033.png
+C01
+3 p- DarkMageFMagic_034.png
+3 p- DarkMageFMagic_035.png
+3 p- DarkMageFMagic_036.png
+3 p- DarkMageFMagic_037.png
+3 p- DarkMageFMagic_038.png
+3 p- DarkMageFMagic_039.png
+C1B
+3 p- DarkMageFMagic_040.png
+3 p- DarkMageFMagic_041.png
+C1B
+3 p- DarkMageFMagic_042.png
+C1B
+5 p- DarkMageFMagic_000.png
+C0D
+~~~
+/// - Mode 3
+C07
+C03
+1 p- DarkMageFMagic_000.png
+4 p- DarkMageFMagic_002.png
+4 p- DarkMageFMagic_003.png
+C23
+3 p- DarkMageFMagic_043.png
+2 p- DarkMageFMagic_044.png
+25 p- DarkMageFMagic_045.png
+5 p- DarkMageFMagic_046.png
+2 p- DarkMageFMagic_045.png
+5 p- DarkMageFMagic_047.png
+5 p- DarkMageFMagic_048.png
+C28
+5 p- DarkMageFMagic_049.png
+4 p- DarkMageFMagic_050.png
+4 p- DarkMageFMagic_051.png
+3 p- DarkMageFMagic_050.png
+3 p- DarkMageFMagic_049.png
+3 p- DarkMageFMagic_048.png
+2 p- DarkMageFMagic_047.png
+2 p- DarkMageFMagic_046.png
+2 p- DarkMageFMagic_045.png
+5 p- DarkMageFMagic_048.png
+2 p- DarkMageFMagic_045.png
+5 p- DarkMageFMagic_049.png
+2 p- DarkMageFMagic_045.png
+5 p- DarkMageFMagic_050.png
+2 p- DarkMageFMagic_045.png
+5 p- DarkMageFMagic_051.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_052.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_053.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_054.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_055.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_054.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_056.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_057.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_058.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_058.png
+2 p- DarkMageFMagic_045.png
+2 p- DarkMageFMagic_058.png
+2 p- DarkMageFMagic_057.png
+2 p- DarkMageFMagic_056.png
+2 p- DarkMageFMagic_053.png
+2 p- DarkMageFMagic_051.png
+2 p- DarkMageFMagic_049.png
+2 p- DarkMageFMagic_047.png
+2 p- DarkMageFMagic_046.png
+2 p- DarkMageFMagic_045.png
+15 p- DarkMageFMagic_059.png
+5 p- DarkMageFMagic_060.png
+8 p- DarkMageFMagic_059.png
+5 p- DarkMageFMagic_061.png
+8 p- DarkMageFMagic_059.png
+5 p- DarkMageFMagic_060.png
+8 p- DarkMageFMagic_059.png
+5 p- DarkMageFMagic_061.png
+8 p- DarkMageFMagic_059.png
+5 p- DarkMageFMagic_060.png
+8 p- DarkMageFMagic_059.png
+5 p- DarkMageFMagic_061.png
+3 p- DarkMageFMagic_062.png
+C22
+3 p- DarkMageFMagic_012.png
+3 p- DarkMageFMagic_013.png
+2 p- DarkMageFMagic_014.png
+4 p- DarkMageFMagic_015.png
+2 p- DarkMageFMagic_016.png
+2 p- DarkMageFMagic_017.png
+4 p- DarkMageFMagic_018.png
+2 p- DarkMageFMagic_019.png
+10 p- DarkMageFMagic_063.png
+2 p- DarkMageFMagic_020.png
+2 p- DarkMageFMagic_021.png
+2 p- DarkMageFMagic_020.png
+C23
+3 p- DarkMageFMagic_025.png
+2 p- DarkMageFMagic_026.png
+2 p- DarkMageFMagic_027.png
+2 p- DarkMageFMagic_028.png
+2 p- DarkMageFMagic_029.png
+1 p- DarkMageFMagic_030.png
+C1B
+1 p- DarkMageFMagic_031.png
+C06
+C05
+L
+3 p- DarkMageFMagic_031.png
+3 p- DarkMageFMagic_032.png
+3 p- DarkMageFMagic_033.png
+C01
+3 p- DarkMageFMagic_034.png
+3 p- DarkMageFMagic_035.png
+3 p- DarkMageFMagic_036.png
+3 p- DarkMageFMagic_037.png
+3 p- DarkMageFMagic_038.png
+3 p- DarkMageFMagic_039.png
+C1B
+3 p- DarkMageFMagic_040.png
+3 p- DarkMageFMagic_041.png
+C1B
+5 p- DarkMageFMagic_000.png
+C0D
+~~~
+/// - Mode 5
+C07
+C03
+1 p- DarkMageFMagic_000.png
+4 p- DarkMageFMagic_001.png
+3 p- DarkMageFMagic_002.png
+3 p- DarkMageFMagic_003.png
+4 p- DarkMageFMagic_004.png
+4 p- DarkMageFMagic_005.png
+4 p- DarkMageFMagic_006.png
+3 p- DarkMageFMagic_005.png
+4 p- DarkMageFMagic_006.png
+3 p- DarkMageFMagic_005.png
+3 p- DarkMageFMagic_007.png
+C44
+3 p- DarkMageFMagic_005.png
+3 p- DarkMageFMagic_007.png
+3 p- DarkMageFMagic_008.png
+3 p- DarkMageFMagic_007.png
+3 p- DarkMageFMagic_008.png
+3 p- DarkMageFMagic_007.png
+3 p- DarkMageFMagic_008.png
+3 p- DarkMageFMagic_009.png
+3 p- DarkMageFMagic_010.png
+C23
+3 p- DarkMageFMagic_011.png
+3 p- DarkMageFMagic_012.png
+3 p- DarkMageFMagic_013.png
+2 p- DarkMageFMagic_014.png
+4 p- DarkMageFMagic_015.png
+2 p- DarkMageFMagic_016.png
+2 p- DarkMageFMagic_017.png
+4 p- DarkMageFMagic_018.png
+C28
+2 p- DarkMageFMagic_019.png
+2 p- DarkMageFMagic_020.png
+2 p- DarkMageFMagic_021.png
+3 p- DarkMageFMagic_022.png
+5 p- DarkMageFMagic_023.png
+3 p- DarkMageFMagic_024.png
+4 p- DarkMageFMagic_023.png
+3 p- DarkMageFMagic_022.png
+2 p- DarkMageFMagic_021.png
+4 p- DarkMageFMagic_020.png
+3 p- DarkMageFMagic_022.png
+2 p- DarkMageFMagic_024.png
+3 p- DarkMageFMagic_025.png
+2 p- DarkMageFMagic_026.png
+C23
+2 p- DarkMageFMagic_027.png
+2 p- DarkMageFMagic_028.png
+2 p- DarkMageFMagic_029.png
+1 p- DarkMageFMagic_030.png
+C1B
+1 p- DarkMageFMagic_031.png
+C06
+C05
+L
+3 p- DarkMageFMagic_031.png
+3 p- DarkMageFMagic_032.png
+3 p- DarkMageFMagic_033.png
+C01
+3 p- DarkMageFMagic_034.png
+3 p- DarkMageFMagic_035.png
+3 p- DarkMageFMagic_036.png
+3 p- DarkMageFMagic_037.png
+3 p- DarkMageFMagic_038.png
+3 p- DarkMageFMagic_039.png
+C1B
+3 p- DarkMageFMagic_040.png
+3 p- DarkMageFMagic_041.png
+C1B
+3 p- DarkMageFMagic_042.png
+C1B
+5 p- DarkMageFMagic_000.png
+C0D
+~~~
+/// - Mode 6
+C07
+C03
+1 p- DarkMageFMagic_000.png
+4 p- DarkMageFMagic_002.png
+4 p- DarkMageFMagic_003.png
+C23
+3 p- DarkMageFMagic_043.png
+2 p- DarkMageFMagic_044.png
+25 p- DarkMageFMagic_045.png
+5 p- DarkMageFMagic_046.png
+2 p- DarkMageFMagic_045.png
+5 p- DarkMageFMagic_047.png
+5 p- DarkMageFMagic_048.png
+C28
+5 p- DarkMageFMagic_049.png
+4 p- DarkMageFMagic_050.png
+4 p- DarkMageFMagic_051.png
+3 p- DarkMageFMagic_050.png
+3 p- DarkMageFMagic_049.png
+3 p- DarkMageFMagic_048.png
+2 p- DarkMageFMagic_047.png
+2 p- DarkMageFMagic_046.png
+2 p- DarkMageFMagic_045.png
+5 p- DarkMageFMagic_048.png
+2 p- DarkMageFMagic_045.png
+5 p- DarkMageFMagic_049.png
+2 p- DarkMageFMagic_045.png
+5 p- DarkMageFMagic_050.png
+2 p- DarkMageFMagic_045.png
+5 p- DarkMageFMagic_051.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_052.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_053.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_054.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_055.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_054.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_056.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_057.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_058.png
+2 p- DarkMageFMagic_045.png
+4 p- DarkMageFMagic_058.png
+2 p- DarkMageFMagic_045.png
+2 p- DarkMageFMagic_058.png
+2 p- DarkMageFMagic_057.png
+2 p- DarkMageFMagic_056.png
+2 p- DarkMageFMagic_053.png
+2 p- DarkMageFMagic_051.png
+2 p- DarkMageFMagic_049.png
+2 p- DarkMageFMagic_047.png
+2 p- DarkMageFMagic_046.png
+2 p- DarkMageFMagic_045.png
+15 p- DarkMageFMagic_059.png
+5 p- DarkMageFMagic_060.png
+8 p- DarkMageFMagic_059.png
+5 p- DarkMageFMagic_061.png
+8 p- DarkMageFMagic_059.png
+5 p- DarkMageFMagic_060.png
+8 p- DarkMageFMagic_059.png
+5 p- DarkMageFMagic_061.png
+8 p- DarkMageFMagic_059.png
+5 p- DarkMageFMagic_060.png
+8 p- DarkMageFMagic_059.png
+5 p- DarkMageFMagic_061.png
+3 p- DarkMageFMagic_062.png
+C22
+3 p- DarkMageFMagic_012.png
+3 p- DarkMageFMagic_013.png
+2 p- DarkMageFMagic_014.png
+4 p- DarkMageFMagic_015.png
+2 p- DarkMageFMagic_016.png
+2 p- DarkMageFMagic_017.png
+4 p- DarkMageFMagic_018.png
+2 p- DarkMageFMagic_019.png
+10 p- DarkMageFMagic_063.png
+2 p- DarkMageFMagic_020.png
+2 p- DarkMageFMagic_021.png
+2 p- DarkMageFMagic_020.png
+C23
+3 p- DarkMageFMagic_025.png
+2 p- DarkMageFMagic_026.png
+2 p- DarkMageFMagic_027.png
+2 p- DarkMageFMagic_028.png
+2 p- DarkMageFMagic_029.png
+1 p- DarkMageFMagic_030.png
+C1B
+1 p- DarkMageFMagic_031.png
+C06
+C05
+L
+3 p- DarkMageFMagic_031.png
+3 p- DarkMageFMagic_032.png
+3 p- DarkMageFMagic_033.png
+C01
+3 p- DarkMageFMagic_034.png
+3 p- DarkMageFMagic_035.png
+3 p- DarkMageFMagic_036.png
+3 p- DarkMageFMagic_037.png
+3 p- DarkMageFMagic_038.png
+3 p- DarkMageFMagic_039.png
+C1B
+3 p- DarkMageFMagic_040.png
+3 p- DarkMageFMagic_041.png
+C1B
+5 p- DarkMageFMagic_000.png
+C0D
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- DarkMageFMagic_000.png
+C0E
+2 p- DarkMageFMagic_042.png
+2 p- DarkMageFMagic_064.png
+C01
+2 p- DarkMageFMagic_042.png
+2 p- DarkMageFMagic_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- DarkMageFMagic_000.png
+C0E
+2 p- DarkMageFMagic_042.png
+2 p- DarkMageFMagic_064.png
+C01
+2 p- DarkMageFMagic_042.png
+1 p- DarkMageFMagic_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- DarkMageFMagic_000.png
+C01
+~~~
+/// - Mode 10
+1 p- DarkMageFMagic_000.png
+C01
+~~~
+/// - Mode 11
+1 p- DarkMageFMagic_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- DarkMageFMagic_000.png
+4 p- DarkMageFMagic_001.png
+3 p- DarkMageFMagic_002.png
+3 p- DarkMageFMagic_003.png
+4 p- DarkMageFMagic_004.png
+4 p- DarkMageFMagic_005.png
+4 p- DarkMageFMagic_006.png
+3 p- DarkMageFMagic_005.png
+4 p- DarkMageFMagic_006.png
+3 p- DarkMageFMagic_005.png
+3 p- DarkMageFMagic_007.png
+C44
+3 p- DarkMageFMagic_005.png
+3 p- DarkMageFMagic_007.png
+3 p- DarkMageFMagic_008.png
+3 p- DarkMageFMagic_007.png
+3 p- DarkMageFMagic_008.png
+3 p- DarkMageFMagic_007.png
+3 p- DarkMageFMagic_008.png
+3 p- DarkMageFMagic_009.png
+3 p- DarkMageFMagic_010.png
+C23
+3 p- DarkMageFMagic_011.png
+3 p- DarkMageFMagic_012.png
+3 p- DarkMageFMagic_013.png
+2 p- DarkMageFMagic_014.png
+4 p- DarkMageFMagic_015.png
+2 p- DarkMageFMagic_016.png
+2 p- DarkMageFMagic_017.png
+4 p- DarkMageFMagic_018.png
+C28
+2 p- DarkMageFMagic_019.png
+2 p- DarkMageFMagic_020.png
+2 p- DarkMageFMagic_021.png
+3 p- DarkMageFMagic_022.png
+5 p- DarkMageFMagic_023.png
+3 p- DarkMageFMagic_024.png
+4 p- DarkMageFMagic_023.png
+3 p- DarkMageFMagic_022.png
+2 p- DarkMageFMagic_021.png
+4 p- DarkMageFMagic_020.png
+3 p- DarkMageFMagic_022.png
+2 p- DarkMageFMagic_024.png
+3 p- DarkMageFMagic_025.png
+2 p- DarkMageFMagic_026.png
+C23
+2 p- DarkMageFMagic_027.png
+2 p- DarkMageFMagic_028.png
+2 p- DarkMageFMagic_029.png
+1 p- DarkMageFMagic_030.png
+C1B
+1 p- DarkMageFMagic_031.png
+C06
+C05
+L
+3 p- DarkMageFMagic_031.png
+3 p- DarkMageFMagic_032.png
+3 p- DarkMageFMagic_033.png
+C01
+3 p- DarkMageFMagic_034.png
+3 p- DarkMageFMagic_035.png
+3 p- DarkMageFMagic_036.png
+3 p- DarkMageFMagic_037.png
+3 p- DarkMageFMagic_038.png
+3 p- DarkMageFMagic_039.png
+C1B
+3 p- DarkMageFMagic_040.png
+3 p- DarkMageFMagic_041.png
+C1B
+3 p- DarkMageFMagic_042.png
+C1B
+5 p- DarkMageFMagic_000.png
+C0D
+~~~
+/// - End of animation

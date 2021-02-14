@@ -17,7 +17,8 @@ BYTE 00 00
 ALIGN 4
 
 EirikaGreatLordSkillList:
-BYTE 1 SupplyID
+BYTE 255 ParagonID
+BYTE 255 DragonFangID
 BYTE 00 00
 ALIGN 4
 
@@ -34,24 +35,36 @@ BYTE 00 00
 ALIGN 4
 
 KnightSkillList:
-BYTE 1 NaturalCoverID
+BYTE 1 DefPlus2ID
+BYTE 10 NaturalCoverID
 BYTE 00 00
 ALIGN 4
 
 GeneralSkillList:
+BYTE 255 DefPlus2ID
+BYTE 255 NaturalCoverID
+BYTE 5 WaryFighterID
+BYTE 15 LunaID
 BYTE 00 00
 ALIGN 4
 
 ThiefSkillList:
-BYTE 1 StealID
+BYTE 1 LocktouchID
+BYTE 10 PoisonStrikeID
 BYTE 00 00
 ALIGN 4
 
 MercenarySkillList:
+BYTE 1 ArmsthriftID
+BYTE 10 StrongRiposteID
 BYTE 00 00
 ALIGN 4
 
 HeroSkillList:
+BYTE 255 ArmsthriftID
+BYTE 255 StrongRiposteID
+BYTE 5 SolID
+BYTE 15 AxebreakerID
 BYTE 00 00
 ALIGN 4
 
@@ -71,6 +84,7 @@ ALIGN 4
 
 AssassinSkillList:
 BYTE 255 StealID
+BYTE 255 PoisonStrikeID
 BYTE 1 LethalityID
 BYTE 00 00
 ALIGN 4
@@ -84,10 +98,15 @@ ALIGN 4
 SniperSkillList:
 BYTE 255 SklPlus2ID
 BYTE 255 QuickDrawID 
+BYTE 5 CertainBlowID
+BYTE 15 BowfaireID
 BYTE 00 00
 ALIGN 4
 
 RangerSkillList:
+BYTE 255 ArmsthriftID
+BYTE 255 StrongRiposteID
+BYTE 5 RallySklID 
 BYTE 00 00
 ALIGN 4
 
@@ -98,6 +117,10 @@ BYTE 00 00
 ALIGN 4
 
 WyvernLordSkillList:
+BYTE 255 StrPlus2ID
+BYTE 255 LungeID
+BYTE 5 RallyDefID
+BYTE 15 SwordbreakerID
 BYTE 00 00
 ALIGN 4
 
@@ -110,10 +133,14 @@ BYTE 00 00
 ALIGN 4
 
 MageSkillList:
+BYTE 1 MagPlus2ID
 BYTE 00 00
 ALIGN 4
 
 SageSkillList:
+BYTE 255 MagPlus2ID
+BYTE 5 RallyMagID
+BYTE 15 TomefaireID
 BYTE 00 00
 ALIGN 4
 
@@ -136,6 +163,10 @@ BYTE 00 00
 ALIGN 4
 
 DruidSkillList:
+BYTE 255 MaleficAuraID
+BYTE 255 AnathemaID
+BYTE 5 VengeanceID
+BYTE 15 BowbreakerID
 BYTE 00 00
 ALIGN 4
 
@@ -149,10 +180,16 @@ BYTE 00 00
 ALIGN 4
 
 RogueSkillList:
+BYTE 255 StealID
+BYTE 255 PoisonStrikeID
 BYTE 00 00
 ALIGN 4
 
 GreatKnightSkillList:
+BYTE 255 ElbowRoomID
+BYTE 255 OutdoorFighterID
+BYTE 5 LunaID
+BYTE 15 ArmoredBlowID
 BYTE 00 00
 ALIGN 4
 
@@ -161,6 +198,8 @@ BYTE 00 00
 ALIGN 4
 
 FighterSkillList:
+BYTE 1 HPPlus5ID
+BYTE 10 GambleID
 BYTE 00 00
 ALIGN 4
 
@@ -177,6 +216,10 @@ BYTE 00 00
 ALIGN 4
 
 BerserkerSkillList:
+BYTE 255 HPPlus5ID
+BYTE 255 GambleID
+BYTE 5 RallyStrID
+BYTE 15 AxefaireID
 BYTE 00 00
 ALIGN 4
 
@@ -185,6 +228,8 @@ BYTE 00 00
 ALIGN 4
 
 PriestSkillList:
+BYTE 1 MiracleID
+BYTE 10 RallyLukID
 BYTE 00 00
 ALIGN 4
 
@@ -221,10 +266,15 @@ BYTE 00 00
 ALIGN 4
 
 DancerSkillList:
+BYTE 1 LckPlus4ID
+BYTE 10 VigorDanceID
+BYTE 25 VoiceOfPeaceID
+BYTE 35 ForeignPrincessID
 BYTE 00 00
 ALIGN 4
 
 SoldierSkillList:
+BYTE 255 RepositionID
 BYTE 00 00
 ALIGN 4
 
