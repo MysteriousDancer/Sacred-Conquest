@@ -33,8 +33,8 @@
 #include "Engine Hacks/SkillSystem/skill_definitions.event"
 
 #define SwordAnim(Animation) "BYTE Swords 0x01 ; SHORT Animation"
-#define SpearAnim(Animation) "BYTE Spears 0x01 ; SHORT Animation"
-#define LanceAnim(Animation) "BYTE Spears 0x1 ; SHORT Animation"
+#define SpearAnim(Animation) "BYTE Lances 0x01 ; SHORT Animation"
+#define LanceAnim(Animation) "BYTE Lances 0x1 ; SHORT Animation"
 #define AxeAnim(Animation) "BYTE Axes 0x01 ; SHORT Animation"
 #define HandAxeAnim(Animation) "BYTE HandAxe 0x00 ; SHORT Animation ; BYTE Tomahawk 0x00 ; SHORT Animation ; BYTE Hatchet 0x00 ; SHORT Animation"
 #define BowAnim(Animation) "BYTE Bows 0x01 ; SHORT Animation"
@@ -46,6 +46,10 @@
 #define SpecialAnim(Animation,Weapon) "BYTE Weapon 0x00 ; SHORT Animation"
 #define Item 0x9
 
+ALIGN 4
 #include "Tables/TableDefinitions.event"
+
+ALIGN 4
+//#include "Stat Bonuses.event"
 
  #define __DEBUG__ // Uncomment to get the Debug startup menu :p

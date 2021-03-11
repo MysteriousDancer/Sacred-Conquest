@@ -17,7 +17,7 @@ END_MAIN
 
 CharacterBasedEvents1:
 ALIGN 4
-CharacterEvent(0,JakobTalk,Eirika,Seth)
+CharacterEvent(0,TalkEvent,Eirika,Seth)
 END_MAIN
 
 LocationBasedEvents1:
@@ -81,9 +81,11 @@ ENDA
 EndingScene1:
 ENDA
 
-JakobTalk:
-ALIGN 4
-Text(0x0929)
+TalkEvent:
+Text(0x929)
+NoFade
+ENUN
+
 ASMC DisableFreeMovementASMC
 MNC2 0x2
-END_MAIN
+ENDA

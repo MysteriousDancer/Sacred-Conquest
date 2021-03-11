@@ -1,0 +1,12 @@
+#define Free_Space somewhere
+
+
+#include "Extensions/Hack Installation.txt"
+
+ORG 0x2C534
+gotoHack(expRoutine)
+
+
+ORG Free_Space
+expRoutine:
+#incbin "Fates EXP Approximation.dmp"

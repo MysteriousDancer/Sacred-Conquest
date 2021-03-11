@@ -20,6 +20,7 @@
     #include "Engine Hacks/256 colors Title background Installer/titlebackgroundinstaller.event"
     #include "Engine Hacks/FreeMovement/MakeShopASMC.lyn.event"
     //#include "Engine Hacks/EventMenu/CallEventMenu.s"
+    #include "Engine Hacks/Aum/Aum.Event"
     MESSAGE Used hax space ends at currentOffset
 
     //Events
@@ -35,7 +36,7 @@
     #include "Animations/Animation Reference.event"
 
     //Music
-    //#include "Music/Music Installer.event"
+    #include "Music/Music Installer.event"
 
 ALIGN 4
 //disable opening world map

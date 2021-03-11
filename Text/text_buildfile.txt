@@ -404,7 +404,8 @@ Xander only. A sacred sword of Nohr.[.][X]
 [OpenMidRight][LoadFace][0x02][0x01]
 [OpenMidRight]Ryoma, Hinoka, Takumi, Sakura...[NL]
 I'm so sorry for letting you all down.[ANL]
-But I can't abandon everyone I've always loved.[ANL]
+But I can't abandon everyone [NL]
+I've always loved.[ANL]
 I can only hope they'll understand.[ANL][X]
 
 # 0x0896
@@ -441,3 +442,10 @@ A Dragon's Decree[.][X]
 
 ##
 A Dragon's Decree[.][X]
+
+#0x929
+[OpenMidLeft][LoadFace][0x4][0x01]
+[OpenMidLeft]Let us continue onward.[A][X]
+
+# 0x03D1
+Bifrost[X]

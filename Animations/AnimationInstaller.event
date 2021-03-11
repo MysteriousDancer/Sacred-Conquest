@@ -25,3 +25,5 @@
 #include "DarkMageF/DarkMageFMagic Installer.event"
 #include "Noble/NobleMagic Installer.event"
 #include "Noble/NobleSword Installer.event"
+//#include "Dancer/DancerLance Installer.event"
+//#include "Dancer/DancerDance Installer.event"
