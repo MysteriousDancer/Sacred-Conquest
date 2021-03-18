@@ -13,7 +13,7 @@ INLINE ClassLevelUpSkillTable,Skill Pointer
 0x0B General,GeneralSkillList|IsPointer
 0x0C General (F),GeneralSkillList|IsPointer
 0x0D Thief,ThiefSkillList|IsPointer
-0x0E Manakete,0x0
+0x0E Manakete,OutlawSkillList|IsPointer
 0x0F Mercenary,MercenarySkillList|IsPointer
 0x10 Mercenary (F),MercenarySkillList|IsPointer
 0x11 Hero,HeroSkillList|IsPointer
@@ -43,7 +43,7 @@ INLINE ClassLevelUpSkillTable,Skill Pointer
 0x29 Mage Knight,MageKnightSkillList|IsPointer
 0x2A Mage Knight (F),MageKnightSkillList|IsPointer
 0x2B Bishop,BishopSkillList|IsPointer
-0x2C Bishop (F),BishopSkillList|IsPointer
+0x2C Bishop (F),MaidSkillList|IsPointer
 0x2D Shaman,ShamanSkillList|IsPointer
 0x2E Shaman (F),ShamanSkillList|IsPointer
 0x2F Druid,DruidSkillList|IsPointer
@@ -54,23 +54,23 @@ INLINE ClassLevelUpSkillTable,Skill Pointer
 0x34 Gorgon Egg,0x0
 0x35 Great Knight,GreatKnightSkillList|IsPointer
 0x36 Great Knight (F),GreatKnightSkillList|IsPointer
-0x37 Recruit (2),0x0
-0x38 Journeyman (3),0x0
-0x39 Pupil (3),0x0
-0x3A Recruit (3),0x0
-0x3B Manakete,0x0
-0x3C Manakete (F),ManaketeFSkillList|IsPointer
-0x3D Journeyman (1),0x0
-0x3E Pupil (1),0x0
+0x37 Recruit (2),VillagerSkillList|IsPointer
+0x38 Journeyman (3),WolfskinSkillList|IsPointer
+0x39 Pupil (3),WolfssegnerSkillList|IsPointer
+0x3A Recruit (3),MerchantSkillList|IsPointer
+0x3B Manakete,BallisticianSkillList|IsPointer
+0x3C Manakete (F),DarkFlierSkillList|IsPointer
+0x3D Journeyman (1),MasterOfArmsSkillList|IsPointer
+0x3E Pupil (1),WitchSkillList|IsPointer
 0x3F Fighter,FighterSkillList|IsPointer
-0x40 Warrior,WarriorSkillList|IsPointer
+0x40 Warrior,BerserkerSkillList|IsPointer
 0x41 Brigand,BrigandSkillList|IsPointer
-0x42 Pirate,PirateSkillList|IsPointer
+0x42 Pirate,FighterSkillList|IsPointer
 0x43 Berserker,BerserkerSkillList|IsPointer
 0x44 Monk,MonkSkillList|IsPointer
 0x45 Priest,PriestSkillList|IsPointer
-0x46 Bard,0x0
-0x47 Recruit (1),0x0
+0x46 Bard,AdventurerSkillList|IsPointer
+0x47 Recruit (1),DreadFighterSkillList|IsPointer
 0x48 Pegasus Knight,PegKnightSkillList|IsPointer
 0x49 Falcon Knight,FalcoknightSkillList|IsPointer
 0x4A Cleric,ClericSkillList|IsPointer

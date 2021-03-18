@@ -157,7 +157,7 @@
 
 //Slayer: Deal effective damage to monster units.
 //By Tequila
-#define SlayerID 255
+#define SlayerID 110
 
 //Skybreaker: Deal effective damage to flying units.
 //By Sme
@@ -223,7 +223,7 @@
 
 //Acrobat: All traversable terrain costs 1 movement.
 //By Tequila
-#define AcrobatID 255
+#define AcrobatID 118
 
 //Armor March: At start of turn, if unit is adjacent to an armor ally, unit and adjacent armor allies gain +2 Mov.
 //By Leonarth
@@ -390,7 +390,7 @@
 
 //Defiant Avoid/Crit: When HP is 25% or lower, gain +30 Avoid or Crit.
 //By Sme
-#define DefiantAvoID 255
+#define DefiantAvoID 111
 #define DefiantCritID 255
 
 //Indoor/Outdoor Fighter: +10 Hit and Avo when fighting indoors/outdoors.
@@ -445,7 +445,7 @@
 
 //Insight: Hit +20.
 //By Sme
-#define InsightID 255
+#define InsightID 115
 
 //Knight Aspirant: When above 75% health, +2 damage, +15% avoid.
 //By Datagne
@@ -457,7 +457,7 @@
 
 //Light Weight: When holding three or less items, attack speed +3.
 //Author Unknown (Initial Commit)
-#define LightWeightID 255
+#define LightWeightID 112
 
 //Loyalty: When within 2 spaces of a Lord, -3 damage taken, +15% hit.
 //By Datagne
@@ -477,7 +477,7 @@
 
 //Opportunist: +4 damage if the foe cannot counter.
 //By Tequila
-#define OpportunistID 255
+#define OpportunistID 116
 
 //Outrider: Take -1 damage and gain +3% crit per space moved.
 //By Datagne
@@ -619,7 +619,7 @@
 
 //Black Magic: Skill% chance to inflict a random status.
 //By Tequila
-#define BlackMagicID 255
+#define BlackMagicID 114
 
 //Colossus: Triples Strength. (Skill % activation)
 //Author Unknown (Initial Commit)
@@ -736,7 +736,7 @@
 
 //Bow Range +1: Maximum range of equipped bows is increased.
 //By Teraspark
-#define BowRangeUpID 255
+#define BowRangeUpID 117
 
 //Point Blank: Minimum range of equipped bows is set to 1.
 //By Teraspark
@@ -1003,7 +1003,7 @@
 
 //Boon: Cure bad status effects at the beginning of each turn.
 //By Sme
-#define BoonID 255
+#define BoonID 113
 
 //Synchronize: Statuses are also applied to the attacker.
 //By Sme
@@ -1037,7 +1037,7 @@
 #define NiceThighsID 255
 #define PersonalityID 255
 
-//Mine
+//Stat Boost Skills (MysteriousDancer+Pikmin1211)
 #define ResPlus2ID 23
 #define HPPlus5ID 107
 #define StrPlus2ID 101
@@ -1051,4 +1051,4 @@
 #define Roll12ID 255
 #define TraceID 255
 
-//next 110
+//next 119
