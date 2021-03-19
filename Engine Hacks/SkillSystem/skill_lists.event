@@ -16,6 +16,8 @@ ALIGN 4
 EirikaGreatLordSkillList:
 BYTE 255 ParagonID
 BYTE 255 DragonFangID
+BYTE 5 DauntID
+BYTE 15 NightTideID
 BYTE 00 00
 ALIGN 4
 
@@ -27,6 +29,7 @@ BYTE 00 00
 PaladinSkillList:
 BYTE 255 ElbowRoomID
 BYTE 255 OutdoorFighterID
+BYTE 5 SaviorID
 BYTE 15 AegisID
 BYTE 00 00
 ALIGN 4
@@ -89,13 +92,17 @@ ALIGN 4
 
 WitchSkillList:
 BYTE 255 ShadowgiftID
+BYTE 255 ShadeID
 BYTE 5 SwarpID
 BYTE 15 BlackMagicID
 BYTE 00 00
 ALIGN 4
 
 DreadFighterSkillList:
+BYTE 255 DefiantResID
+BYTE 255 KestrelStanceID
 BYTE 5 BoonID
+BYTE 15 PragmaticID
 BYTE 00 00
 ALIGN 4
 
@@ -147,6 +154,7 @@ AssassinSkillList:
 BYTE 255 StealID
 BYTE 255 PoisonStrikeID
 BYTE 1 LethalityID
+BYTE 15 TomefaireID
 BYTE 00 00
 ALIGN 4
 
@@ -168,6 +176,7 @@ RangerSkillList:
 BYTE 255 ArmsthriftID
 BYTE 255 StrongRiposteID
 BYTE 5 RallySklID 
+BYTE 15 TomebreakerID
 BYTE 00 00
 ALIGN 4
 
@@ -195,11 +204,13 @@ ALIGN 4
 
 MageSkillList:
 BYTE 1 MagPlus2ID
+BYTE 10 FocusID
 BYTE 00 00
 ALIGN 4
 
 SageSkillList:
 BYTE 255 MagPlus2ID
+BYTE 255 FocusID
 BYTE 5 RallyMagID
 BYTE 15 TomefaireID
 BYTE 00 00
@@ -232,7 +243,6 @@ BYTE 00 00
 ALIGN 4
 
 SummonerSkillList:
-BYTE 1 CantoID
 BYTE 255 MaleficAuraID
 BYTE 255 AnathemaID
 BYTE 5 SealMagID
@@ -241,7 +251,7 @@ BYTE 00 00
 ALIGN 4
 
 RogueSkillList:
-BYTE 255 StealID
+BYTE 255 LocktouchID
 BYTE 255 PoisonStrikeID
 BYTE 00 00
 ALIGN 4
@@ -345,6 +355,8 @@ ALIGN 4
 ValkyrieSkillList:
 BYTE 255 ResPlus2ID
 BYTE 255 DemoiselleID
+BYTE 5 RallyResID
+BYTE 15 InspirationID
 BYTE 00 00
 ALIGN 4
 

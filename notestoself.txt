@@ -7,7 +7,9 @@ Lyn Lock - Leo
 Reginleif - Brynhildr
 Siegmund - Siegfried
 Latona - Aum
+Athos Lock - Lilith
+Torch - Astral Blessing
 
-Free Classes: 0xE, 0x37, 0x38, 0x39, 0x3A, 0x3B, 0x3D, 0x3E, 0x41, 0x42, 0x46, 0x4F+
+Free Classes: 0x41, 0x4F+
 
 Maps: 7: Mountains2; 8: Snowy Bern FE8

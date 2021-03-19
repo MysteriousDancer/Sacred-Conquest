@@ -10,7 +10,7 @@
 
 //Shade: Enemies are less likely to target this unit.
 //By Sme
-#define ShadeID 255
+#define ShadeID 123
 
 //Shade+: Enemies will not target this unit.
 //By Sme
@@ -37,7 +37,7 @@
 
 //Daunt: -5 Hit and Crit to all enemy units in a 3-tile radius.
 //By Sme
-#define DauntID 255
+#define DauntID 120
 
 //Demoiselle: Male allies within 2 tiles receive -2 damage.
 //Author Unknown (Initial Commit)
@@ -53,7 +53,7 @@
 
 //Focus: +10 Critical if there are no allies within 3 tiles.
 //Author Unknown (Initial Commit)
-#define FocusID 255
+#define FocusID 127
 
 //Gentilhomme: Female allies within 2 tiles receive -2 damage.
 //Author Unknown (Initial Commit)
@@ -85,7 +85,7 @@
 
 //Night Tide: Def and Res +5 to adjacent allies.
 //By Sme
-#define NightTideID 255
+#define NightTideID 119
 
 //Solidarity: Critical and Critical Avoid +10 to adjacent allies.
 //By SD9k
@@ -326,7 +326,7 @@
 
 //Battle Veteran: Gain +1 damage and +5% Hit per 10 levels unit has.
 //By Datagne
-#define BattleVeteranID 255
+#define BattleVeteranID 121
 
 //Blow Skills: Apply a stat bonus when initiating battle.
 //By Rossendale
@@ -386,7 +386,7 @@
 
 //Pragmatic: When foe is not at full HP, attack +3 and def/res+1.
 //Author Unknown (Initial Commit)
-#define PragmaticID 255
+#define PragmaticID 125
 
 //Defiant Avoid/Crit: When HP is 25% or lower, gain +30 Avoid or Crit.
 //By Sme
@@ -518,7 +518,7 @@
 #define BracingStanceID 255
 #define DartingStanceID 255
 #define FierceStanceID 255
-#define KestrelStanceID 255
+#define KestrelStanceID 126
 #define MirrorStanceID 255
 #define ReadyStanceID 255
 #define SteadyStanceID 255
@@ -785,7 +785,7 @@
 #define DefiantSpdID 255
 #define DefiantLckID 255
 #define DefiantDefID 255
-#define DefiantResID 255
+#define DefiantResID 124
 
 //Resolve: When HP < 50%, gain 1.5x Str, Skl, & Spd.
 //By Sme
@@ -907,7 +907,7 @@
 
 //Savior: Can rescue without penalties.
 //Author Unknown (Initial Commit)
-#define SaviorID 255
+#define SaviorID 122
 
 //Discipline: Weapon experience gains are doubled.
 //Author Unknown (Initial Commit)
@@ -1051,4 +1051,4 @@
 #define Roll12ID 255
 #define TraceID 255
 
-//next 119
+//next 128

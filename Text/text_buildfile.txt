@@ -449,3 +449,16 @@ A Dragon's Decree[.][X]
 
 # 0x03D1
 Bifrost[X]
+
+# 0x02D6
+Maid[X]
+
+# 0x03CD
+Astral Blessing[X]
+
+# 0x047C
+Lilith only. Can heal[NL]
+allies at a greater range.[X]
+
+# 0x04BA
+Restores some HP.[X]
