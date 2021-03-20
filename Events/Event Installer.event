@@ -4,3 +4,6 @@
 { 
    #include "Castle1.event"
 }
+{
+   #include "Ch1.event"
+}

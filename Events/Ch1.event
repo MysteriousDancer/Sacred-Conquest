@@ -1,0 +1,48 @@
+EventPointerTable(0x0D,PointerList2) //7 is the ID for prologue events in vanilla FE8
+
+PointerList2:
+POIN TurnBasedEvents2
+POIN CharacterBasedEvents2
+POIN LocationBasedEvents2
+POIN MiscBasedEvents2
+POIN Dunno2 Dunno2 Dunno2
+POIN Tutorial2
+POIN TrapData2 TrapDataHard2
+POIN PlayerUnits2 PlayerUnits2
+POIN $0 $0 $0 $0 $0 $0
+POIN BeginningScene2 EndingScene2
+
+TurnBasedEvents2:
+END_MAIN
+
+CharacterBasedEvents2:
+END_MAIN
+
+LocationBasedEvents2:
+END_MAIN
+
+MiscBasedEvents2:
+CauseGameOverIfLordDies
+End_MAIN
+
+Dunno2:
+End_MAIN
+
+Tutorial2:
+End_MAIN
+
+PlayerUnits2:
+UNIT Eirika EirikaLord Eirika Level(1,Ally,False) [0,10] 0x0 0x0 0x0 0x1 [] NoAI
+UNIT
+
+TrapData2:
+End_Main
+
+TrapDataHard2:
+End_Main
+
+BeginningScene2:
+ENDA
+
+EndingScene2:
+ENDA
