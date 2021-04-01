@@ -3,7 +3,7 @@ SomeDenseGuy: Corrin (Old)
 SatoshiKura: Arthur, 
 BatimaTheBat: Azura, Sakura, Laslow, Odin
 Xenith: Hazel
-LaurentLaicrox: Gunter
+LaurentLaicrox: Gunter (Old)
 Peerless: Jacynth
 HonokaSuzumiya: Kaito
 Lenh: Lilith
@@ -16,6 +16,8 @@ Sme: Hinoka
 Melia: Anna
 Autonima: Corrin
 Zoramine Fae: Beruka
+Toaomr: Kaden, Xander, Kaze, Camilla, Gunter, Flora, Leo
+CardCaph: Shura
 
 --Animations+Map Sprites--
 Grated Shtick: Dragon Fang Animation

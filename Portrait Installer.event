@@ -6,7 +6,6 @@ Corrin_Mug:
 #incext PortraitFormatter "Graphics/Corrin.png"
 setMugEntry(0x2, Corrin_Mug, 3, 5, 3, 3)
 
-
 Elise_Mug:
 #incext PortraitFormatter "Graphics/Elise.png"
 setMugEntry(0x5, Elise_Mug, 2, 6, 3, 3)
@@ -36,8 +35,8 @@ Nyx_Mug:
 setMugEntry(0x10, Nyx_Mug, 3, 5, 3, 3)
 
 Camilla_Mug:
-#incext PortraitFormatter "Graphics/CamillaStandin.png"
-setMugEntry(0x11, Camilla_Mug, 3, 5, 3, 3)
+#incext PortraitFormatter "Graphics/Camilla.png"
+setMugEntry(0x11, Camilla_Mug, 4, 6, 3, 4)
 
 Laslow_Mug:
 #incext PortraitFormatter "Graphics/Laslow.png"
@@ -56,8 +55,8 @@ Charlotte_Mug:
 setMugEntry(0x1C, Charlotte_Mug, 3, 6, 3, 4)
 
 Gunter_Mug:
-#incext PortraitFormatter "Graphics/GunterStandin.png"
-setMugEntry(0x22, Gunter_Mug, 3, 5, 3, 3)
+#incext PortraitFormatter "Graphics/Gunter.png"
+setMugEntry(0x22, Gunter_Mug, 2, 5, 2, 2)
 
 Anna_Mug:
 #incext PortraitFormatter "Graphics/Anna.png"
@@ -102,3 +101,23 @@ setMugEntry(0x65, Shop_Anna_Mug, 3, 3, 2, 0)
 Vendor_Mug:
 #incext PortraitFormatter "Graphics/AimeeVendor.png"
 setMugEntry(0x66, Vendor_Mug, 3, 3, 2, 0)
+
+Shura_Mug:
+#incext PortraitFormatter "Graphics/Shura.png"
+setMugEntry(0x26, Shura_Mug, 3, 6, 3, 4)
+
+Leo_Mug:
+#incext PortraitFormatter "Graphics/Leo.png"
+setMugEntry(0x20, Leo_Mug, 2, 4, 2, 2)
+
+Xander_Mug:
+#incext PortraitFormatter "Graphics/Xander.png"
+setMugEntry(0x24, Xander_Mug, 2, 4, 2, 2)
+
+Flora_Mug:
+#incext PortraitFormatter "Graphics/Flora.png"
+setMugEntry(0x0C, Flora_Mug, 3, 6, 3, 4)
+
+Kaze_Mug:
+#incext PortraitFormatter "Graphics/Kaze.png"
+setMugEntry(0x18, Kaze_Mug, 2, 5, 2, 3)
