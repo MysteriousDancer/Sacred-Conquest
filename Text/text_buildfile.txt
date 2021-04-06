@@ -462,3 +462,25 @@ allies at a greater range.[X]
 
 # 0x04BA
 Restores some HP.[X]
+
+# 0x02D7
+Outlaw[X]
+
+# 0x02da
+Villager[X]
+
+# 0x02e5
+Adventurer[X]
+
+# 0x02d8
+Wolfskin[X]
+
+##
+Wolfseggner[X]
+
+# 0x20dd
+Merchant[X]
+
+# 0x2ee
+Master of Arms[X]
+
