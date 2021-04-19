@@ -13,6 +13,9 @@ POIN $0 $0 $0 $0 $0 $0
 POIN BeginningScene2 EndingScene2
 
 TurnBasedEvents2:
+TurnEventPlayer(0x0,Turn32,3)
+TurnEventPlayer(0x0,Turn42,4)
+//TurnEventPlayer(eventID,pointer,turn)
 END_MAIN
 
 CharacterBasedEvents2:
@@ -33,6 +36,17 @@ End_MAIN
 
 PlayerUnits2:
 UNIT Eirika EirikaLord Eirika Level(1,Ally,False) [0,10] 0x0 0x0 0x0 0x1 [] NoAI
+UNIT Seth Bishop Eirika Level(1,Ally,False) [0,9] 0x0 0x0 0x0 0x1 [] NoAI
+UNIT
+
+Turn32:
+UNIT 0x3 Troubadour Eirika Level(1,Ally,False) [0, 3] 0x0 0x0 0x0 0x1 [] NoAI
+UNIT 0x4 Cavalier Eirika Level(6,Ally,False) [0, 6] 0x0 0x0 0x0 0x1 [SteelSword,Javelin] NoAI
+UNIT
+
+Turn42:
+UNIT 0xA Knight Eirika Level(6,Ally,False) [0, 4] 0x0 0x0 0x0 0x1 [IronLance] NoAI
+UNIT 0x3F Fighter Eirika Level(7,Ally,False) [0, 5] 0x0 0x0 0x0 0x1 [IronAxe,HandAxe] NoAI
 UNIT
 
 TrapData2:

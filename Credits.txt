@@ -16,8 +16,9 @@ Sme: Hinoka
 Melia: Anna
 Autonima: Corrin
 Zoramine Fae: Beruka
-Toaomr: Kaden, Xander, Kaze, Camilla, Gunter, Flora, Leo
+Toaomr: Kaden, Xander, Kaze, Camilla (Old), Gunter, Flora, Leo
 CardCaph: Shura
+CanDy: Camilla
 
 --Animations+Map Sprites--
 Grated Shtick: Dragon Fang Animation
@@ -38,6 +39,10 @@ Black Mage: Rogue Anim M
 Wan: Rogue Anim M
 Orihara_Saki: Rogue Anim M
 ltranc: Rogue Anim M
+Kenpuhu: Aegis Anim
+Mariode: Astra Anim, Sol Anim, Lethality Anim
+Mikey_Seregon: Luna Anim, Pavise Anim
+Shyuterz: Vengeance Anim
 
 --Music--
 Mycahel: A Dark Fall, A Dark Fall (Fire), Glory/Ruin, Glory/Ruin (Deeds)

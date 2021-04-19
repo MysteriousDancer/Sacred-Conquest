@@ -11,65 +11,41 @@ POIN SkillAnimationTable
 ALIGN 4
 LunaAnim:
 {
-#include "Luna/LunaAnim.event"
+#include "Luna/Luna.event"
 }
 
 ALIGN 4
 AstraAnim:
 {
-  #include "Astra/AstraAnim.event"
-}
-
-ALIGN 4
-AdeptAnim:
-{
-  #include "Adept/AdeptAnim.event"
+  #include "Astra/Astra.event"
 }
 
 ALIGN 4
 SolAnim:
 {
-  #include "Sol/SolAnim.event"
-}
-
-ALIGN 4
-AetherAnim:
-{
-  #include "Aether/AetherAnim.event"
-}
-
-ALIGN 4
-ImpaleAnim:
-{
-  #include "Impale/ImpaleAnim.event"
-}
-
-ALIGN 4
-ColossusAnim:
-{
-  #include "Colossus/ColossusAnim.event"
-}
-
-ALIGN 4
-IgnisAnim:
-{
-  #include "Ignis/IgnisAnim.event"
+  #include "Sol/Sol.event"
 }
 
 ALIGN 4
 PaviseAnim:
 {
-  #include "Pavise/PaviseAnim.event"
+  #include "Pavise/Pavise.event"
 }
 
 ALIGN 4
 AegisAnim:
 {
-  #include "Aegis/AegisAnim.event"
+  #include "Aegis/Aegis.event"
 }
 
 ALIGN 4
-SureShotAnim:
+DragonFangAnim:
 {
-  #include "SureShot/SureShotAnim.event"
+#include "DragonFang/Skill.event"
+}
+
+ALIGN 4
+LethalityAnim:
+{
+#include "Lethality/Lethality.event"
 }
