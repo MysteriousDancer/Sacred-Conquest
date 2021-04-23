@@ -39,3 +39,5 @@
 #include "Ranger F/FRanger Sword Installer.event"
 #include "Ranger F/FRanger Bow Installer.event"
 #include "Ranger F/FRanger Unarmed Installer.event"
+#include "Strategist F/Strategist Magic Installer.event"
+#include "Strategist F/Strategist Staff Installer.event"
