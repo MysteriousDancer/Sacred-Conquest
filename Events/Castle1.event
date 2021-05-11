@@ -79,13 +79,12 @@ NoFade
 ENDA
 
 EndingScene1:
-ENDA
+//ASMC DisableFreeMovementASMC
+MNC2 0x2
+ENDB
 
 TalkEvent:
 Text(0x929)
+CALL(EndingScene1)
 NoFade
-ENUN
-
-ASMC DisableFreeMovementASMC
-MNC2 0x2
 ENDA

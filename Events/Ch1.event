@@ -35,26 +35,22 @@ Tutorial2:
 End_MAIN
 
 PlayerUnits2:
-UNIT Eirika EirikaLord Eirika Level(1,Ally,False) [0,10] 0x0 0x0 0x0 0x1 [] NoAI
-UNIT Seth Bishop Eirika Level(1,Ally,False) [0,9] 0x0 0x0 0x0 0x1 [] NoAI
+UNIT Eirika EirikaLord Eirika Level(1,Ally,False) [13,10] 0x0 0x0 0x0 0x1 [] NoAI
+UNIT Seth Bishop Eirika Level(1,Ally,False) [14,11] 0x0 0x0 0x0 0x1 [] NoAI
 UNIT
 
-Turn32:
-LOAD1 1 Turn32Units
-ENDA 
-
-Turn42:
-LOAD1 1 Turn42Units
-ENDA
+EnemyUnits2:
+UNIT 0x5C Revenant 0x5C Level(8,Enemy,True) [0,0] 0x0 0x0 0x0 0x1 [0xAD] [0x0, 0x0, 0x0, 0x0]
+UNIT
 
 Turn32Units:
-UNIT 0x3 Troubadour Eirika Level(1,Ally,False) [0, 3] 0x0 0x0 0x0 0x1 [] NoAI
-UNIT 0x4 Cavalier Eirika Level(6,Ally,False) [0, 6] 0x0 0x0 0x0 0x1 [SteelSword,Javelin] NoAI
+UNIT 0x3 Troubadour Eirika Level(1,Ally,False) [17, 13] 0x0 0x0 0x0 0x1 [] NoAI
+UNIT 0x4 Cavalier Eirika Level(6,Ally,False) [17, 12] 0x0 0x0 0x0 0x1 [SteelSword,Javelin] NoAI
 UNIT
 
 Turn42Units:
-UNIT 0xA Knight Eirika Level(6,Ally,False) [0, 4] 0x0 0x0 0x0 0x1 [IronLance] NoAI
-UNIT 0x3F Fighter Eirika Level(7,Ally,False) [0, 5] 0x0 0x0 0x0 0x1 [IronAxe,HandAxe] NoAI
+UNIT 0x5 0xA Eirika Level(6,Ally,False) [18, 13] 0x0 0x0 0x0 0x1 [IronLance] NoAI
+UNIT 0x6 0x3F Eirika Level(7,Ally,False) [18, 12] 0x0 0x0 0x0 0x1 [IronAxe,HandAxe] NoAI
 UNIT
 
 TrapData2:
@@ -65,7 +61,20 @@ End_Main
 
 BeginningScene2:
 LOAD1 1 PlayerUnits2
+ENUN
+LOAD1 1 EnemyUnits2
+ENUN
 ENDA
 
 EndingScene2:
+ENDA
+
+Turn32:
+LOAD1 1 Turn32Units
+ENUN
+ENDA 
+
+Turn42:
+LOAD1 1 Turn42Units
+LOAD1 1 PlayerUnits2
 ENDA

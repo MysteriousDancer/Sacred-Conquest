@@ -484,3 +484,5 @@ Merchant[X]
 # 0x2ee
 Master of Arms[X]
 
+# 0x02F2
+Faceless[X]
